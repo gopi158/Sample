@@ -1,0 +1,1 @@
+ALTER TABLE userfollowers ADD INDEX (userid, tileid);

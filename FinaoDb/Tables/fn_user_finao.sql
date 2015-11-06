@@ -1,0 +1,20 @@
+CREATE TABLE IF NOT EXISTS `fn_user_finao` (
+  `user_finao_id` int(11) NOT NULL AUTO_INCREMENT,
+  `userid` int(11) NOT NULL,
+  `finao_msg` varchar(200) NOT NULL,
+  `finao_status_Ispublic` int(11) NOT NULL DEFAULT '0' COMMENT '0-private ,1-public',
+  `finao_activestatus` int(11) NOT NULL DEFAULT '1' COMMENT '1-acitive ,2-delete',
+  `IsSkipped` varchar(10) NOT NULL,
+  `createddate` datetime NOT NULL,
+  `updatedby` int(11) NOT NULL,
+  `updateddate` datetime NOT NULL,
+  `finao_status` int(11) NOT NULL,
+  `Iscompleted` tinyint(4) NOT NULL DEFAULT '0' COMMENT '0-notcompleted,1-completed',
+  `Isdefault` tinyint(1) DEFAULT '0',
+  `IsGroup` int(11) NOT NULL,
+  `group_id` int(11) DEFAULT NULL,
+  PRIMARY KEY (`user_finao_id`),
+  KEY `fk_usrtilefinao_userid` (`userid`),
+  KEY `fk_usrtilefinao_updatedby` (`updatedby`),
+  KEY `fk_usrfinao_status` (`finao_status`)
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=3252 ;

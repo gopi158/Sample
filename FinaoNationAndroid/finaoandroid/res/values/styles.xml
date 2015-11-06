@@ -1,0 +1,108 @@
+<resources>
+
+    <style name="DefaultText">
+        <item name="android:text">Default</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:drawablePadding">4dp</item>
+        <item name="android:paddingTop">8dp</item>
+        <item name="android:paddingBottom">8dp</item>
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingRight">16dp</item>
+    </style>
+
+    <style name="DefaultRootLayout"></style>
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="@android:style/Theme.NoTitleBar.Fullscreen">
+        <item name="android:soundEffectsEnabled">true</item>
+        <item name="android:hapticFeedbackEnabled">true</item>
+    </style>
+    <!-- Styles for BUTTON type SuperActivityToasts -->
+
+
+    <!-- Styles for PROGRESS type SuperActivityToasts -->
+
+    <style name="SuperActivityToast_Progress_ProgressBar" parent="android:Widget.Holo.ProgressBar">
+        <item name="android:layout_width">32dp</item>
+        <item name="android:layout_marginLeft">8dp</item>
+    </style>
+
+    <style name="SuperActivityToast_Progress_TextView" parent="DefaultText">
+        <item name="android:paddingLeft">4dp</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+
+    <!-- Styles for PROGRESS_HORIZONTAL type SuperActivityToasts -->
+
+    <style name="SuperActivityToast_ProgressHorizontal_RootLayout" parent="DefaultRootLayout">
+        <item name="android:minWidth">128dp</item>
+    </style>
+
+    <style name="SuperActivityToast_ProgressHorizontal_TextView" parent="DefaultText">
+        <item name="android:paddingBottom">0dp</item>
+    </style>
+
+    <style name="SuperActivityToast_ProgressHorizontal_ProgressBar" parent="android:Widget.Holo.ProgressBar.Horizontal">
+        <item name="android:layout_marginLeft">12dp</item>
+        <item name="android:layout_marginRight">12dp</item>
+        <item name="android:layout_marginBottom">4dp</item>
+    </style>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <style name="CustomAlertDialogStyle">
+        <item name="android:bottomBright">@color/progressorange</item>
+        <item name="android:bottomDark">@color/progressorange</item>
+        <item name="android:bottomMedium">@color/progressorange</item>
+        <item name="android:centerBright">@color/progressorange</item>
+        <item name="android:centerDark">@color/progressorange</item>
+        <item name="android:centerMedium">@color/progressorange</item>
+        <item name="android:fullBright">@color/progressorange</item>
+        <item name="android:fullDark">@color/progressorange</item>
+        <item name="android:topBright">@color/progressorange</item>
+        <item name="android:topDark">@color/progressorange</item>
+        <item name="android:textColor">@color/tabDark</item>
+    </style>
+
+    <style name="DialogTheme" parent="@android:style/Theme.Dialog">
+        <item name="android:alertDialogStyle">@style/CustomAlertDialogStyle</item>
+        <item name="android:textColorPrimary">@color/tabDark</item>
+    </style>
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+    <style name="CropButton">
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:paddingTop">0dp</item>
+        <item name="android:paddingBottom">3dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_width">60dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:background">@drawable/selector_crop_button</item>
+    </style>
+
+    <style name="ResultButton">
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+
+    <style name="ShareButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+</resources>

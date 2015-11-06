@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:animateLayoutChanges="true"
+    android:background="#f9f9f9"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:animateLayoutChanges="true"
+        android:background="#f9f9f9"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:id="@+id/linearLayout1"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/ProfilePic_size"
+            android:animateLayoutChanges="true"
+            android:background="#f9f9f9" >
+
+            <Button
+                android:id="@+id/logoutbtnid"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/btnlogout" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:layout_marginBottom="12dip"
+                android:layout_marginTop="12dip"
+                android:src="@drawable/logoheader" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/ll2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="3"
+            android:animateLayoutChanges="true" >
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:scaleType="center"
+                android:src="@drawable/app_icon" />
+
+            <TextView
+                android:id="@+id/profilepagemystorytvid"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/profilemargin"
+                android:scrollbars="vertical"
+                android:textColor="#ffffff" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:animateLayoutChanges="true"
+            android:background="#f9f9f9"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:id="@+id/ll1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="2.2"
+                android:animateLayoutChanges="true"
+                android:background="#f9f9f9"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1.8"
+                    android:animateLayoutChanges="true"
+                    android:background="#f9f9f9"
+                    android:orientation="horizontal" >
+
+                    <LinearLayout
+                        android:layout_width="@dimen/profilewidth"
+                        android:layout_height="match_parent"
+                        android:background="#f9f9f9"
+                        android:orientation="horizontal" >
+                    </LinearLayout>
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="@dimen/profilemargin"
+                        android:animateLayoutChanges="true"
+                        android:orientation="vertical" >
+
+                        <TextView
+                            android:id="@+id/profilepageprofilenametvid"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/profilemargin"
+                            android:layout_marginTop="@dimen/profilemargin"
+                            android:text="FinaoNation"
+                            android:textColor="#f47b20"
+                            android:textSize="16dip"
+                            android:textStyle="bold" />
+
+                        <LinearLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="40dp"
+                            android:layout_alignParentBottom="true"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginTop="@dimen/profilemargin"
+                            android:animateLayoutChanges="true" >
+
+                            <Button
+                                android:id="@+id/profilepagefinaosbtnid"
+                                android:layout_width="0dp"
+                                android:layout_height="40dp"
+                                android:layout_weight="1"
+                                android:background="@drawable/gradiense_button"
+                                android:text="Button"
+                                android:textSize="12dp" />
+
+                            <Button
+                                android:id="@+id/profilepagetilesbtnid"
+                                android:layout_width="0dp"
+                                android:layout_height="40dp"
+                                android:layout_weight=".7"
+                                android:background="@drawable/gradiense_button"
+                                android:text="Button"
+                                android:textSize="12dp" />
+
+                            <Button
+                                android:id="@+id/profilepagefollowingbtnid"
+                                android:layout_width="0dp"
+                                android:layout_height="40dp"
+                                android:layout_weight="1"
+                                android:background="@drawable/gradiense_button"
+                                android:text="Button"
+                                android:textSize="12dp" />
+
+                            <Button
+                                android:id="@+id/profilepagefollwersbtnid"
+                                android:layout_width="0dp"
+                                android:layout_height="40dp"
+                                android:layout_weight="1"
+                                android:background="@drawable/gradiense_button"
+                                android:text="Button"
+                                android:textSize="12dp" />
+                        </LinearLayout>
+                    </RelativeLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="3.3" >
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginTop="5dp"
+                        android:layout_weight="2"
+                        android:animateLayoutChanges="true" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerInParent="true"
+                            android:fontFamily="Bold"
+                            android:text="POSTS"
+                            android:textColor="#00aff0"
+                            android:textSize="18dp" />
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="2"
+                        android:animateLayoutChanges="true" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerInParent="true"
+                            android:fontFamily="Bold"
+                            android:text="INSPIRED"
+                            android:textSize="18dp" />
+                    </RelativeLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1.7"
+                android:animateLayoutChanges="true"
+                android:background="#f9f9f9"
+                android:orientation="vertical" >
+
+                <Button
+                    android:id="@+id/createfinaobtnid"
+                    android:layout_width="fill_parent"
+                    android:layout_height="50dp"
+                    android:background="#E0E0E0"
+                    android:text="Create a new FINAO"
+                    android:textColor="#545454"
+                    android:textSize="14dp"
+                    android:textStyle="bold" />
+
+                <ListView
+                    android:id="@+id/profilepagelvid"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_marginLeft="5dip"
+                    android:layout_marginRight="5dip"
+                    android:divider="#eeeeee"
+                    android:dividerHeight="1dp" >
+                </ListView>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/ll3"
+        android:layout_width="@dimen/profilewidth"
+        android:layout_height="@dimen/profileheight"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="@dimen/profilemargin"
+        android:animateLayoutChanges="true"
+        android:background="#4863A0" >
+
+        <ImageView
+            android:id="@+id/profilepageprofilepicivid"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:scaleType="fitXY"
+            android:src="@drawable/app_icon" />
+    </RelativeLayout>
+
+</RelativeLayout>

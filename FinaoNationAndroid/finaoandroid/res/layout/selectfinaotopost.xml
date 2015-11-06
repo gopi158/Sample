@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f9f9f9"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/headersize"
+        android:layout_weight="9"
+        android:background="#E0E0E0" >
+
+        <Button
+            android:id="@+id/back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:background="@null"
+            android:onClick="backClicked"
+            android:text="Back"
+            android:textColor="@color/buttoncol"
+            android:textSize="@dimen/Bannertextsize"
+            android:visibility="invisible" />
+
+        <Button
+            android:id="@+id/post"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:background="@null"
+            android:onClick="nextClicked"
+            android:text="Next"
+            android:textColor="@color/buttoncol"
+            android:textSize="@dimen/Bannertextsize"
+            android:visibility="invisible" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:onClick="Settingsclick"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:src="@drawable/menu" />
+
+        <TextView
+            android:id="@+id/selectfinaotoposttvid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:gravity="center_horizontal"
+            android:text="Choose a Finao."
+            android:textColor="#000000"
+            android:textSize="@dimen/Bannertextsize"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="#f9f9f9"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/createfinao"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="9.0"
+            android:background="@color/buttoncol"
+            android:gravity="center"
+            android:onClick="Create_finao"
+            android:text="Create a FINAO"
+            android:textColor="@color/appwhitecolor"
+            android:textSize="@dimen/edittextsize" />
+
+        <TextView
+            android:id="@+id/header"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="0.5"
+            android:gravity="center"
+            android:textSize="@dimen/edittextsize" />
+
+        <ListView
+            android:id="@+id/selectfinaotopostlvid"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="5dip"
+            android:layout_marginRight="5dip"
+            android:layout_marginTop="@dimen/padding_medium"
+            android:layout_weight="0.5"
+            android:divider="#eeeeee"
+            android:dividerHeight="1dp"
+            android:listSelector="#f47b20" >
+        </ListView>
+    </LinearLayout>
+
+</LinearLayout>

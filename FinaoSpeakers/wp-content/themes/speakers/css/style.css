@@ -1,0 +1,160 @@
+/*
+ * HTML5 Boilerplate
+ *
+ * What follows is the result of much research on cross-browser styling.
+ * Credit left inline and big thanks to Nicolas Gallagher, Jonathan Neal,
+ * Kroc Camen, and the H5BP dev community and team.
+ *
+ * Detailed information about this CSS: h5bp.com/css
+ *
+ * ==|== normalize ==========================================================
+ */
+
+ 
+/* ==|== primary styles =====================================================
+   Author: Vladimir Kharlampidi, The iDangero.us
+   ========================================================================== */
+
+/*body {
+	background: #eee;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	color:#333;
+	line-height:1.5;
+	position: relative;
+	min-width: 920px;
+}
+.center {
+	width:900px;
+	margin:0 auto;
+	position: relative;
+}*/
+.main {
+	margin: 0 auto;
+    width: 980px;
+	height:auto;
+	/*width: 980px;
+	margin: 0 auto;
+	padding: 60px 40px;
+	background: #fff;
+	border-left: 1px solid #ccc;
+	border-right: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;*/
+}
+.home-device {
+	width:980;
+	 
+	padding:30px 40px;
+	/*border-radius:20px;*/
+	/*background:#111;*/
+	/*border: 3px solid white;*/
+	margin:0 auto;
+	position:relative;	
+	/*box-shadow: 0px 0px 5px #000;*/
+}
+.home-device .arrow-left {
+	background:url(../img/arrows.png) no-repeat left top;
+	position:absolute;
+	left:10px;
+	top:50%;
+	margin-top:-15px;
+	width:17px;
+	height:30px;
+}
+.home-device .arrow-right {
+	background:url(../img/arrows.png) no-repeat left bottom;
+	position:absolute;
+	right:10px;
+	top:50%;
+	margin-top:-15px;
+	width:17px;
+	height:30px;
+}
+.swiper-main {
+	width: 980px;
+	height: auto;
+	position: relative;
+}
+.sm-shadow {
+	position: absolute;
+	bottom: -15px;
+	width: 606px;
+	height: 38px;
+	left: 17px;
+	background: url(../img/shadow.png);
+}
+.sm-free {
+	width: 105px;
+	height: 61px;
+	background: url(../img/free.png);
+	position: absolute;
+	right: -2px;
+	top: -2px;
+	z-index: 2;
+}
+.swiper1, .swiper1 .swiper-slide{
+	width: 980px;
+	height: auto;
+}
+.pagination1 {
+	text-align: center;
+	margin-top: 5px;
+}
+.content-slide {
+	background: #fff;
+	padding: 20px;
+	border-radius: 5px;
+}
+.cs-1, .cs-2 {
+	float: left;
+	width:270px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.cs-1 {
+	margin-right: 20px;
+	background: #333;
+	color: #fff;
+}
+.cs-2 {
+	background: #ad2e4c;
+	color: #fff;
+}
+/* Pagination */
+.pagination1 .swiper-pagination-switch {
+	display: inline-block;
+	width: 10px;
+	height: 10px;
+	border-radius: 10px;
+	background: #999;
+	box-shadow: 0px 1px 2px #555 inset;
+	margin: 0 3px;
+	cursor: pointer;
+}
+.pagination1 .swiper-active-switch {
+	background: #fff;2f9933
+}
+
+.sw-title {
+	padding: 5px 20px;
+	font-size: 41px;
+	margin: 50px 0 20px;
+	font-family: 'Lato', sans-serif;
+	line-height: 50px;
+	color: #222;
+	font-weight: 300;
+	border-bottom: 1px solid #555;
+}
+.sw-content {
+	background: #fff;
+	border-radius: 5px;
+}
+.demo-title {
+	margin-bottom: 5px;
+	text-align: center;
+	font-size: 31px;
+	font-family: "Lato", Arial, Helvetica;
+	font-weight: 300;
+	line-height: 35px;
+	margin: 50px 0 20px;
+}

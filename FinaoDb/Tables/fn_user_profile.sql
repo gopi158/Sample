@@ -1,0 +1,21 @@
+CREATE TABLE IF NOT EXISTS `fn_user_profile` (
+  `user_profile_id` int(11) NOT NULL AUTO_INCREMENT,
+  `user_id` int(11) NOT NULL,
+  `user_profile_msg` varchar(150) DEFAULT NULL,
+  `user_location` varchar(100) DEFAULT NULL,
+  `profile_image` varchar(255) DEFAULT NULL,
+  `profile_bg_image` varchar(255) DEFAULT NULL,
+  `profile_status_Ispublic` int(11) DEFAULT '0',
+  `createdby` int(11) NOT NULL,
+  `createddate` datetime NOT NULL,
+  `updatedby` int(11) NOT NULL,
+  `updateddate` datetime NOT NULL,
+  `mystory` varchar(4000) DEFAULT NULL,
+  `IsCompleted` varchar(10) NOT NULL,
+  `temp_profile_image` varchar(255) DEFAULT NULL,
+  `temp_profile_bg_image` varchar(255) DEFAULT NULL,
+  `explore_finao` tinyint(1) DEFAULT NULL,
+  PRIMARY KEY (`user_profile_id`),
+  KEY `fn_usrprof_createdby` (`createdby`),
+  KEY `fn_usrprof_updatedby` (`updatedby`)
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=678 ;

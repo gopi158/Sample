@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/headersize"
+        android:background="#f9f9f9" >
+
+        <Button
+            android:id="@+id/back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:background="@null"
+            android:onClick="backClicked"
+            android:text="Back"
+            android:textColor="@color/buttoncol"
+            android:textSize="@dimen/Bannertextsize" />
+        
+        <Button
+            android:id="@+id/savestorybtnid"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:background="@null"
+            android:text="Save"
+            android:textColor="@color/buttoncol"
+            android:textSize="@dimen/edittextsize" />
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:layout_marginBottom="12dip"
+            android:layout_marginTop="12dip"
+            android:src="@drawable/logoheader" />
+    </RelativeLayout>
+
+    <EditText
+        android:id="@+id/editstoryedid"
+        android:layout_width="fill_parent"
+        android:layout_height="250dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="80dp"
+        android:ems="10"
+        android:maxLength="500"
+        android:scrollbars="vertical" >
+
+        <requestFocus />
+    </EditText>
+
+</LinearLayout>

@@ -1,0 +1,1 @@
+ALTER TABLE fn_user_profile ADD INDEX (user_id);

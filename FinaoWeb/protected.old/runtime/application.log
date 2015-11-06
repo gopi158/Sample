@@ -1,0 +1,1819 @@
+2013/11/27 14:46:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/login.css".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('css/login.css')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/login.css
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 14:46:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "javascript/lang/en.js".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('javascript/lang...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript/lang/en.js
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 14:47:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/tiles/gfhs.jpg".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/tiles/gf...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/tiles/gfhs.jpg
+HTTP_REFERER=http://finaonation.com/myhome
+---
+2013/11/27 15:03:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/login.css".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('css/login.css')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/login.css
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 15:03:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "javascript/lang/en.js".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('javascript/lang...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript/lang/en.js
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 15:13:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "javascript/lang/en.js".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('javascript/lang...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript/lang/en.js
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 15:17:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/login.css".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('css/login.css')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/login.css
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 15:17:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "javascript/lang/en.js".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('javascript/lang...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript/lang/en.js
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 15:58:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/login.css".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('css/login.css')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/login.css
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 15:58:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "javascript/lang/en.js".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('javascript/lang...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript/lang/en.js
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 16:20:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/tiles/gardening.jpg".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/tiles/ga...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/tiles/gardening.jpg
+HTTP_REFERER=http://finaonation.com/finao/motivationMesg?menutype=finao&finaoid=2993
+---
+2013/11/27 16:20:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/tiles/goodtile.jpg".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/tiles/go...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/tiles/goodtile.jpg
+HTTP_REFERER=http://finaonation.com/finao/motivationMesg?menutype=finao&finaoid=2993
+---
+2013/11/27 16:21:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/tiles/192-leadership.JPG.jpg".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/tiles/19...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/tiles/192-leadership.JPG.jpg
+HTTP_REFERER=http://finaonation.com/finao/Getprofiledetails?tile_name=Gfhs
+---
+2013/11/27 16:21:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/tiles/loveyou.jpg".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/tiles/lo...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/tiles/loveyou.jpg
+HTTP_REFERER=http://finaonation.com/finao/Getprofiledetails?tile_name=Gfhs
+---
+2013/11/27 16:21:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/tiles/loveyou.jpg".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/tiles/lo...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/tiles/loveyou.jpg
+HTTP_REFERER=http://finaonation.com/finao/Getprofiledetails?tile_name=Gfhs
+---
+2013/11/27 16:21:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/tiles/192-leadership.JPG.jpg".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/tiles/19...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/tiles/192-leadership.JPG.jpg
+HTTP_REFERER=http://finaonation.com/finao/Getprofiledetails?tile_name=Gfhs
+---
+2013/11/27 16:21:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/tiles/nnsvfonao.jpg".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/tiles/nn...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/tiles/nnsvfonao.jpg
+HTTP_REFERER=http://finaonation.com/finao/Getprofiledetails?tile_name=Gfhs
+---
+2013/11/27 16:26:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/tiles/gardening.jpg".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/tiles/ga...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/tiles/gardening.jpg
+HTTP_REFERER=http://finaonation.com/finao/motivationmesg/frndid/850
+---
+2013/11/27 16:26:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/tiles/goodtile.jpg".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/tiles/go...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/tiles/goodtile.jpg
+HTTP_REFERER=http://finaonation.com/finao/motivationmesg/frndid/850
+---
+2013/11/27 16:26:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/tiles/gardening.jpg".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/tiles/ga...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/tiles/gardening.jpg
+HTTP_REFERER=http://finaonation.com/finao/motivationmesg/frndid/850
+---
+2013/11/27 16:26:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/tiles/goodtile.jpg".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/tiles/go...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/tiles/goodtile.jpg
+HTTP_REFERER=http://finaonation.com/finao/motivationmesg/frndid/850
+---
+2013/11/27 16:27:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/tiles/gardening.jpg".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/tiles/ga...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/tiles/gardening.jpg
+HTTP_REFERER=http://finaonation.com/myhome
+---
+2013/11/27 16:27:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/tiles/goodtile.jpg".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/tiles/go...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/tiles/goodtile.jpg
+HTTP_REFERER=http://finaonation.com/myhome
+---
+2013/11/27 16:28:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/tiles/gardening.jpg".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/tiles/ga...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/tiles/gardening.jpg
+HTTP_REFERER=http://finaonation.com/finao/motivationmesg/finaoid/2993
+---
+2013/11/27 16:28:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/tiles/goodtile.jpg".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/tiles/go...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/tiles/goodtile.jpg
+HTTP_REFERER=http://finaonation.com/finao/motivationmesg/finaoid/2993
+---
+2013/11/27 16:29:01 [error] [exception.CException] exception 'CException' with message 'ProfileController cannot find the requested view "_share".' in /var/www/vhosts/finaonation/Yiiframework/web/CController.php:879
+Stack trace:
+#0 /var/www/vhosts/finaonation/protected/controllers/ProfileController.php(432): CController->renderPartial('_share', Array)
+#1 /var/www/vhosts/finaonation/Yiiframework/web/actions/CInlineAction.php(50): ProfileController->actionShare()
+#2 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#3 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#4 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(276): CController->run('share')
+#6 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('profile/share/f...')
+#7 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#8 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#9 {main}
+REQUEST_URI=/profile/share/finaoid/2993/userid/616
+---
+2013/11/27 16:29:03 [error] [exception.CException] exception 'CException' with message 'ProfileController cannot find the requested view "_share".' in /var/www/vhosts/finaonation/Yiiframework/web/CController.php:879
+Stack trace:
+#0 /var/www/vhosts/finaonation/protected/controllers/ProfileController.php(432): CController->renderPartial('_share', Array)
+#1 /var/www/vhosts/finaonation/Yiiframework/web/actions/CInlineAction.php(50): ProfileController->actionShare()
+#2 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#3 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#4 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(276): CController->run('share')
+#6 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('profile/share/f...')
+#7 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#8 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#9 {main}
+REQUEST_URI=/profile/share/finaoid/2993/userid/616
+---
+2013/11/27 16:29:08 [error] [exception.CException] exception 'CException' with message 'ProfileController cannot find the requested view "_share".' in /var/www/vhosts/finaonation/Yiiframework/web/CController.php:879
+Stack trace:
+#0 /var/www/vhosts/finaonation/protected/controllers/ProfileController.php(432): CController->renderPartial('_share', Array)
+#1 /var/www/vhosts/finaonation/Yiiframework/web/actions/CInlineAction.php(50): ProfileController->actionShare()
+#2 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#3 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#4 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(276): CController->run('share')
+#6 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('profile/share/f...')
+#7 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#8 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#9 {main}
+REQUEST_URI=/profile/share/finaoid/2993/userid/616
+---
+2013/11/27 16:29:24 [error] [exception.CException] exception 'CException' with message 'ProfileController cannot find the requested view "_share".' in /var/www/vhosts/finaonation/Yiiframework/web/CController.php:879
+Stack trace:
+#0 /var/www/vhosts/finaonation/protected/controllers/ProfileController.php(432): CController->renderPartial('_share', Array)
+#1 /var/www/vhosts/finaonation/Yiiframework/web/actions/CInlineAction.php(50): ProfileController->actionShare()
+#2 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#3 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#4 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(276): CController->run('share')
+#6 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('profile/share/f...')
+#7 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#8 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#9 {main}
+REQUEST_URI=/profile/share/finaoid/2993/userid/616
+---
+2013/11/27 16:30:09 [error] [exception.CException] exception 'CException' with message 'ProfileController cannot find the requested view "_share".' in /var/www/vhosts/finaonation/Yiiframework/web/CController.php:879
+Stack trace:
+#0 /var/www/vhosts/finaonation/protected/controllers/ProfileController.php(432): CController->renderPartial('_share', Array)
+#1 /var/www/vhosts/finaonation/Yiiframework/web/actions/CInlineAction.php(50): ProfileController->actionShare()
+#2 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#3 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#4 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(276): CController->run('share')
+#6 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('profile/share/f...')
+#7 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#8 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#9 {main}
+REQUEST_URI=/profile/share/finaoid/2993/userid/616
+HTTP_REFERER=https://www.facebook.com/
+---
+2013/11/27 16:30:11 [error] [exception.CException] exception 'CException' with message 'ProfileController cannot find the requested view "_share".' in /var/www/vhosts/finaonation/Yiiframework/web/CController.php:879
+Stack trace:
+#0 /var/www/vhosts/finaonation/protected/controllers/ProfileController.php(432): CController->renderPartial('_share', Array)
+#1 /var/www/vhosts/finaonation/Yiiframework/web/actions/CInlineAction.php(50): ProfileController->actionShare()
+#2 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#3 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#4 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(276): CController->run('share')
+#6 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('profile/share/f...')
+#7 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#8 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#9 {main}
+REQUEST_URI=/profile/share/finaoid/2993/userid/616
+---
+2013/11/27 16:30:51 [error] [exception.CException] exception 'CException' with message 'ProfileController cannot find the requested view "_share".' in /var/www/vhosts/finaonation/Yiiframework/web/CController.php:879
+Stack trace:
+#0 /var/www/vhosts/finaonation/protected/controllers/ProfileController.php(432): CController->renderPartial('_share', Array)
+#1 /var/www/vhosts/finaonation/Yiiframework/web/actions/CInlineAction.php(50): ProfileController->actionShare()
+#2 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#3 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#4 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(276): CController->run('share')
+#6 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('profile/share/f...')
+#7 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#8 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#9 {main}
+REQUEST_URI=/profile/share/finaoid/2993/userid/616
+HTTP_REFERER=https://www.facebook.com/
+---
+2013/11/27 16:30:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/datepicker.css".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('css/datepicker....')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/datepicker.css
+HTTP_REFERER=http://192.237.169.183/profile/profilelanding
+---
+2013/11/27 16:30:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "javascript/lang/en.js".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('javascript/lang...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript/lang/en.js
+HTTP_REFERER=http://192.237.169.183/profile/profilelanding
+---
+2013/11/27 17:06:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/login.css".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('css/login.css')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/login.css
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 17:06:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "javascript/lang/en.js".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('javascript/lang...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript/lang/en.js
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 17:24:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/login.css".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('css/login.css')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/login.css
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 17:24:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "javascript/lang/en.js".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('javascript/lang...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript/lang/en.js
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 17:42:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/login.css".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('css/login.css')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/login.css
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 17:42:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "javascript/lang/en.js".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('javascript/lang...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript/lang/en.js
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 17:52:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/login.css".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('css/login.css')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/login.css
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 17:52:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "javascript/lang/en.js".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('javascript/lang...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript/lang/en.js
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 17:53:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/login.css".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('css/login.css')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/login.css
+HTTP_REFERER=http://finaonation.com/home
+---
+2013/11/27 17:53:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "javascript/lang/en.js".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('javascript/lang...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript/lang/en.js
+HTTP_REFERER=http://finaonation.com/home
+---
+2013/11/27 18:29:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/login.css".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('css/login.css')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/login.css
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 18:29:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "javascript/lang/en.js".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('javascript/lang...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript/lang/en.js
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 18:55:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/login.css".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('css/login.css')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/login.css
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 18:55:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "javascript/lang/en.js".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('javascript/lang...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript/lang/en.js
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 18:56:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/login.css".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('css/login.css')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/login.css
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 18:56:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "javascript/lang/en.js".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('javascript/lang...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript/lang/en.js
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 19:36:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/uploads/profileimages/null".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/uploads/...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/uploads/profileimages/null
+---
+2013/11/27 19:36:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/uploads/profileimages/null".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/uploads/...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/uploads/profileimages/null
+---
+2013/11/27 19:36:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/uploads/profileimages/null".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/uploads/...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/uploads/profileimages/null
+---
+2013/11/27 19:36:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/uploads/profileimages/null".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/uploads/...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/uploads/profileimages/null
+---
+2013/11/27 19:36:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/uploads/profileimages/null".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/uploads/...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/uploads/profileimages/null
+---
+2013/11/27 19:36:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/uploads/profileimages/null".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/uploads/...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/uploads/profileimages/null
+---
+2013/11/27 19:37:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/uploads/profileimages/null".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/uploads/...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/uploads/profileimages/null
+---
+2013/11/27 19:37:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/uploads/profileimages/null".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/uploads/...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/uploads/profileimages/null
+---
+2013/11/27 19:37:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/uploads/profileimages/null".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/uploads/...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/uploads/profileimages/null
+---
+2013/11/27 19:37:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/uploads/profileimages/null".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/uploads/...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/uploads/profileimages/null
+---
+2013/11/27 20:08:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/login.css".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('css/login.css')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/login.css
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 20:08:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "javascript/lang/en.js".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('javascript/lang...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript/lang/en.js
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 20:37:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/login.css".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('css/login.css')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/login.css
+HTTP_REFERER=http://finaonation.com/home
+---
+2013/11/27 20:37:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "javascript/lang/en.js".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('javascript/lang...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript/lang/en.js
+HTTP_REFERER=http://finaonation.com/home
+---
+2013/11/27 20:40:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/login.css".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('css/login.css')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/login.css
+HTTP_REFERER=http://finaonation.com/home
+---
+2013/11/27 20:40:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "javascript/lang/en.js".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('javascript/lang...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript/lang/en.js
+HTTP_REFERER=http://finaonation.com/home
+---
+2013/11/27 20:53:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/login.css".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('css/login.css')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/login.css
+---
+2013/11/27 20:53:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/login.css".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('css/login.css')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/login.css
+---
+2013/11/27 21:29:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/login.css".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('css/login.css')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/login.css
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 21:29:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "javascript/lang/en.js".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('javascript/lang...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript/lang/en.js
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 21:38:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/login.css".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('css/login.css')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/login.css
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 21:38:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/login.css".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('css/login.css')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/login.css
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 21:38:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "javascript/lang/en.js".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('javascript/lang...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript/lang/en.js
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 21:45:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/login.css".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('css/login.css')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/login.css
+HTTP_REFERER=http://finaonation.com/home
+---
+2013/11/27 21:45:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "javascript/lang/en.js".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('javascript/lang...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript/lang/en.js
+HTTP_REFERER=http://finaonation.com/home
+---
+2013/11/27 22:05:53 [error] [exception.CException] exception 'CException' with message 'ProfileController cannot find the requested view "_share".' in /var/www/vhosts/finaonation/Yiiframework/web/CController.php:879
+Stack trace:
+#0 /var/www/vhosts/finaonation/protected/controllers/ProfileController.php(432): CController->renderPartial('_share', Array)
+#1 /var/www/vhosts/finaonation/Yiiframework/web/actions/CInlineAction.php(50): ProfileController->actionShare()
+#2 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#3 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#4 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(276): CController->run('share')
+#6 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('profile/share/f...')
+#7 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#8 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#9 {main}
+REQUEST_URI=/profile/share/finaoid/2993/userid/616
+HTTP_REFERER=http://m.facebook.com/l.php?u=http%3A%2F%2Ffinaonation.com%2Fprofile%2Fshare%2Ffinaoid%2F2993%2Fuserid%2F616&h=PAQHnc3_0&s=1&enc=AZNx-Dri-r9tEF0zOJlHwJOFkMJXQZJgLvonPb9oAqMrOBHZER2x10N--UDbpXxgkK8&no_warn_external=1
+---
+2013/11/27 22:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/login.css".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('css/login.css')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/login.css
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 22:06:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "javascript/lang/en.js".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('javascript/lang...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript/lang/en.js
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 22:22:23 [error] [exception.CException] exception 'CException' with message 'ProfileController cannot find the requested view "_share".' in /var/www/vhosts/finaonation/Yiiframework/web/CController.php:879
+Stack trace:
+#0 /var/www/vhosts/finaonation/protected/controllers/ProfileController.php(432): CController->renderPartial('_share', Array)
+#1 /var/www/vhosts/finaonation/Yiiframework/web/actions/CInlineAction.php(50): ProfileController->actionShare()
+#2 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#3 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#4 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(276): CController->run('share')
+#6 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('profile/share/f...')
+#7 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#8 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#9 {main}
+REQUEST_URI=/profile/share/finaoid/2993/userid/616
+HTTP_REFERER=http://www.facebook.com/l.php?u=http%3A%2F%2Ffinaonation.com%2Fprofile%2Fshare%2Ffinaoid%2F2993%2Fuserid%2F616&h=qAQECQijP&s=1
+---
+2013/11/27 22:27:00 [error] [exception.CException] exception 'CException' with message 'ProfileController cannot find the requested view "_share".' in /var/www/vhosts/finaonation/Yiiframework/web/CController.php:879
+Stack trace:
+#0 /var/www/vhosts/finaonation/protected/controllers/ProfileController.php(432): CController->renderPartial('_share', Array)
+#1 /var/www/vhosts/finaonation/Yiiframework/web/actions/CInlineAction.php(50): ProfileController->actionShare()
+#2 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#3 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#4 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(276): CController->run('share')
+#6 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('profile/share/f...')
+#7 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#8 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#9 {main}
+REQUEST_URI=/profile/share/finaoid/2993/userid/616
+---
+2013/11/27 22:28:35 [error] [exception.CException] exception 'CException' with message 'ProfileController cannot find the requested view "_share".' in /var/www/vhosts/finaonation/Yiiframework/web/CController.php:879
+Stack trace:
+#0 /var/www/vhosts/finaonation/protected/controllers/ProfileController.php(432): CController->renderPartial('_share', Array)
+#1 /var/www/vhosts/finaonation/Yiiframework/web/actions/CInlineAction.php(50): ProfileController->actionShare()
+#2 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#3 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#4 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(276): CController->run('share')
+#6 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('profile/share/f...')
+#7 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#8 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#9 {main}
+REQUEST_URI=/profile/share/finaoid/2993/userid/616
+---
+2013/11/27 22:35:33 [error] [exception.CException] exception 'CException' with message 'ProfileController cannot find the requested view "_share".' in /var/www/vhosts/finaonation/Yiiframework/web/CController.php:879
+Stack trace:
+#0 /var/www/vhosts/finaonation/protected/controllers/ProfileController.php(432): CController->renderPartial('_share', Array)
+#1 /var/www/vhosts/finaonation/Yiiframework/web/actions/CInlineAction.php(50): ProfileController->actionShare()
+#2 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#3 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#4 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(276): CController->run('share')
+#6 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('profile/share/f...')
+#7 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#8 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#9 {main}
+REQUEST_URI=/profile/share/finaoid/2993/userid/616
+---
+2013/11/27 22:35:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/login.css".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('css/login.css')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/login.css
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 22:35:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "javascript/lang/en.js".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('javascript/lang...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript/lang/en.js
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 22:36:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/login.css".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('css/login.css')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/login.css
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 22:36:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "javascript/lang/en.js".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('javascript/lang...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript/lang/en.js
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 22:37:25 [error] [exception.CException] exception 'CException' with message 'ProfileController cannot find the requested view "_share".' in /var/www/vhosts/finaonation/Yiiframework/web/CController.php:879
+Stack trace:
+#0 /var/www/vhosts/finaonation/protected/controllers/ProfileController.php(432): CController->renderPartial('_share', Array)
+#1 /var/www/vhosts/finaonation/Yiiframework/web/actions/CInlineAction.php(50): ProfileController->actionShare()
+#2 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#3 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#4 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(276): CController->run('share')
+#6 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('profile/share/f...')
+#7 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#8 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#9 {main}
+REQUEST_URI=/profile/share/finaoid/2993/userid/616
+---
+2013/11/27 22:37:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/login.css".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('css/login.css')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/login.css
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 22:37:25 [error] [exception.CException] exception 'CException' with message 'ProfileController cannot find the requested view "_share".' in /var/www/vhosts/finaonation/Yiiframework/web/CController.php:879
+Stack trace:
+#0 /var/www/vhosts/finaonation/protected/controllers/ProfileController.php(432): CController->renderPartial('_share', Array)
+#1 /var/www/vhosts/finaonation/Yiiframework/web/actions/CInlineAction.php(50): ProfileController->actionShare()
+#2 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#3 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#4 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(276): CController->run('share')
+#6 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('profile/share/f...')
+#7 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#8 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#9 {main}
+REQUEST_URI=/profile/share/finaoid/2993/userid/616
+---
+2013/11/27 22:37:27 [error] [exception.CException] exception 'CException' with message 'ProfileController cannot find the requested view "_share".' in /var/www/vhosts/finaonation/Yiiframework/web/CController.php:879
+Stack trace:
+#0 /var/www/vhosts/finaonation/protected/controllers/ProfileController.php(432): CController->renderPartial('_share', Array)
+#1 /var/www/vhosts/finaonation/Yiiframework/web/actions/CInlineAction.php(50): ProfileController->actionShare()
+#2 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#3 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#4 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(276): CController->run('share')
+#6 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('profile/share/f...')
+#7 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#8 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#9 {main}
+REQUEST_URI=/profile/share/finaoid/2993/userid/616
+---
+2013/11/27 22:37:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/login.css".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('css/login.css')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/login.css
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 22:37:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "javascript/lang/en.js".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('javascript/lang...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript/lang/en.js
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 22:37:32 [error] [exception.CException] exception 'CException' with message 'ProfileController cannot find the requested view "_share".' in /var/www/vhosts/finaonation/Yiiframework/web/CController.php:879
+Stack trace:
+#0 /var/www/vhosts/finaonation/protected/controllers/ProfileController.php(432): CController->renderPartial('_share', Array)
+#1 /var/www/vhosts/finaonation/Yiiframework/web/actions/CInlineAction.php(50): ProfileController->actionShare()
+#2 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#3 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#4 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(276): CController->run('share')
+#6 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('profile/share/f...')
+#7 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#8 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#9 {main}
+REQUEST_URI=/profile/share/finaoid/2993/userid/616
+---
+2013/11/27 22:37:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/tiles/588-aaaaaaaaaaaa.png".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/tiles/58...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/tiles/588-aaaaaaaaaaaa.png
+HTTP_REFERER=http://finaonation.com/myhome
+---
+2013/11/27 22:38:00 [error] [exception.CException] exception 'CException' with message 'ProfileController cannot find the requested view "_share".' in /var/www/vhosts/finaonation/Yiiframework/web/CController.php:879
+Stack trace:
+#0 /var/www/vhosts/finaonation/protected/controllers/ProfileController.php(432): CController->renderPartial('_share', Array)
+#1 /var/www/vhosts/finaonation/Yiiframework/web/actions/CInlineAction.php(50): ProfileController->actionShare()
+#2 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#3 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#4 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(276): CController->run('share')
+#6 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('profile/share/f...')
+#7 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#8 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#9 {main}
+REQUEST_URI=/profile/share/finaoid/2993/userid/616
+HTTP_REFERER=https://www.facebook.com/
+---
+2013/11/27 22:38:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/tiles/588-aaaaaaaaaaaa.png".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/tiles/58...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/tiles/588-aaaaaaaaaaaa.png
+HTTP_REFERER=http://finaonation.com/myhome
+---
+2013/11/27 22:38:18 [error] [exception.CException] exception 'CException' with message 'ProfileController cannot find the requested view "_share".' in /var/www/vhosts/finaonation/Yiiframework/web/CController.php:879
+Stack trace:
+#0 /var/www/vhosts/finaonation/protected/controllers/ProfileController.php(432): CController->renderPartial('_share', Array)
+#1 /var/www/vhosts/finaonation/Yiiframework/web/actions/CInlineAction.php(50): ProfileController->actionShare()
+#2 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#3 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#4 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(276): CController->run('share')
+#6 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('profile/share/f...')
+#7 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#8 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#9 {main}
+REQUEST_URI=/profile/share/finaoid/2993/userid/616
+HTTP_REFERER=https://www.facebook.com/
+---
+2013/11/27 22:38:28 [error] [exception.CException] exception 'CException' with message 'ProfileController cannot find the requested view "_share".' in /var/www/vhosts/finaonation/Yiiframework/web/CController.php:879
+Stack trace:
+#0 /var/www/vhosts/finaonation/protected/controllers/ProfileController.php(432): CController->renderPartial('_share', Array)
+#1 /var/www/vhosts/finaonation/Yiiframework/web/actions/CInlineAction.php(50): ProfileController->actionShare()
+#2 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#3 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#4 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(276): CController->run('share')
+#6 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('profile/share/f...')
+#7 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#8 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#9 {main}
+REQUEST_URI=/profile/share/finaoid/2993/userid/616
+HTTP_REFERER=https://www.facebook.com/
+---
+2013/11/27 22:38:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/tiles/588-aaaaaaaaaaaa.png".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/tiles/58...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/tiles/588-aaaaaaaaaaaa.png
+HTTP_REFERER=http://finaonation.com/myhome
+---
+2013/11/27 22:38:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/tiles/588-aaaaaaaaaaaa.png".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/tiles/58...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/tiles/588-aaaaaaaaaaaa.png
+HTTP_REFERER=http://finaonation.com/myhome
+---
+2013/11/27 22:38:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/tiles/588-aaaaaaaaaaaa.png".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/tiles/58...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/tiles/588-aaaaaaaaaaaa.png
+HTTP_REFERER=http://finaonation.com/myhome
+---
+2013/11/27 22:39:05 [error] [exception.CException] exception 'CException' with message 'ProfileController cannot find the requested view "_share".' in /var/www/vhosts/finaonation/Yiiframework/web/CController.php:879
+Stack trace:
+#0 /var/www/vhosts/finaonation/protected/controllers/ProfileController.php(432): CController->renderPartial('_share', Array)
+#1 /var/www/vhosts/finaonation/Yiiframework/web/actions/CInlineAction.php(50): ProfileController->actionShare()
+#2 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#3 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#4 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(276): CController->run('share')
+#6 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('profile/share/f...')
+#7 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#8 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#9 {main}
+REQUEST_URI=/profile/share/finaoid/2616/userid/588
+---
+2013/11/27 22:39:06 [error] [exception.CException] exception 'CException' with message 'ProfileController cannot find the requested view "_share".' in /var/www/vhosts/finaonation/Yiiframework/web/CController.php:879
+Stack trace:
+#0 /var/www/vhosts/finaonation/protected/controllers/ProfileController.php(432): CController->renderPartial('_share', Array)
+#1 /var/www/vhosts/finaonation/Yiiframework/web/actions/CInlineAction.php(50): ProfileController->actionShare()
+#2 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#3 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#4 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(276): CController->run('share')
+#6 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('profile/share/f...')
+#7 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#8 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#9 {main}
+REQUEST_URI=/profile/share/finaoid/2616/userid/588
+HTTP_REFERER=http://www.facebook.com/l.php?u=http%3A%2F%2Ffinaonation.com%2Fprofile%2Fshare%2Ffinaoid%2F2616%2Fuserid%2F588&h=PAQGWEuz2&s=1
+---
+2013/11/27 22:39:15 [error] [exception.CException] exception 'CException' with message 'ProfileController cannot find the requested view "_share".' in /var/www/vhosts/finaonation/Yiiframework/web/CController.php:879
+Stack trace:
+#0 /var/www/vhosts/finaonation/protected/controllers/ProfileController.php(432): CController->renderPartial('_share', Array)
+#1 /var/www/vhosts/finaonation/Yiiframework/web/actions/CInlineAction.php(50): ProfileController->actionShare()
+#2 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#3 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#4 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(276): CController->run('share')
+#6 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('profile/share/f...')
+#7 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#8 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#9 {main}
+REQUEST_URI=/profile/share/finaoid/2962/userid/588
+---
+2013/11/27 22:39:40 [error] [exception.CException] exception 'CException' with message 'ProfileController cannot find the requested view "_share".' in /var/www/vhosts/finaonation/Yiiframework/web/CController.php:879
+Stack trace:
+#0 /var/www/vhosts/finaonation/protected/controllers/ProfileController.php(432): CController->renderPartial('_share', Array)
+#1 /var/www/vhosts/finaonation/Yiiframework/web/actions/CInlineAction.php(50): ProfileController->actionShare()
+#2 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#3 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#4 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(276): CController->run('share')
+#6 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('profile/share/f...')
+#7 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#8 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#9 {main}
+REQUEST_URI=/profile/share/finaoid/2962/userid/588
+HTTP_REFERER=https://www.facebook.com/
+---
+2013/11/27 22:41:11 [error] [exception.CException] exception 'CException' with message 'ProfileController cannot find the requested view "_share".' in /var/www/vhosts/finaonation/Yiiframework/web/CController.php:879
+Stack trace:
+#0 /var/www/vhosts/finaonation/protected/controllers/ProfileController.php(499): CController->renderPartial('_share', Array)
+#1 /var/www/vhosts/finaonation/Yiiframework/web/actions/CInlineAction.php(50): ProfileController->actionShare()
+#2 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#3 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#4 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(276): CController->run('share')
+#6 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('profile/share/m...')
+#7 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#8 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#9 {main}
+REQUEST_URI=/profile/share/mediaimageid/4033/userid/588
+HTTP_REFERER=https://www.facebook.com/
+---
+2013/11/27 22:49:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/form-style.css".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('css/form-style....')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/form-style.css
+HTTP_REFERER=http://finaonation.com/myhome
+---
+2013/11/27 22:50:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/tiles/588-aaaaaaaaaaaa.png".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/tiles/58...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/tiles/588-aaaaaaaaaaaa.png
+HTTP_REFERER=http://finaonation.com/myhome
+---
+2013/11/27 22:54:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/tiles/588-aaaaaaaaaaaa.png".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/tiles/58...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/tiles/588-aaaaaaaaaaaa.png
+HTTP_REFERER=http://finaonation.com/myhome
+---
+2013/11/27 23:15:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/login.css".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('css/login.css')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/login.css
+HTTP_REFERER=http://finaonation.com/home
+---
+2013/11/27 23:15:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "javascript/lang/en.js".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('javascript/lang...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript/lang/en.js
+HTTP_REFERER=http://finaonation.com/home
+---
+2013/11/27 23:22:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/tiles/.jpg".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/tiles/.j...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/tiles/.jpg
+HTTP_REFERER=http://finaonation.com/easyregister?tile=arligton2016
+---
+2013/11/27 23:23:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/login.css".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('css/login.css')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/login.css
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 23:23:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "javascript/lang/en.js".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('javascript/lang...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript/lang/en.js
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 23:23:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/login.css".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('css/login.css')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/login.css
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 23:23:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "javascript/lang/en.js".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('javascript/lang...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript/lang/en.js
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 23:24:12 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'madhukar.k@wincito.com' for key 'email'. The SQL statement executed was: INSERT INTO `fn_users` (`activkey`, `lastvisit`, `superuser`, `status`, `fname`, `email`, `password`, `usertypeid`, `createtime`, `socialnetworkid`, `trackid`, `mageid`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10, :yp11).
+2013/11/27 23:24:12 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'madhukar.k@wincito.com' for key 'email'' in /var/www/vhosts/finaonation/Yiiframework/db/CDbCommand.php:354
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/db/ar/CActiveRecord.php(1014): CDbCommand->execute()
+#1 /var/www/vhosts/finaonation/Yiiframework/db/ar/CActiveRecord.php(787): CActiveRecord->insert(NULL)
+#2 /var/www/vhosts/finaonation/protected/controllers/SiteController.php(703): CActiveRecord->save(false)
+#3 /var/www/vhosts/finaonation/Yiiframework/web/actions/CInlineAction.php(50): SiteController->actionEasylogin()
+#4 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#5 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#6 /var/www/vhosts/finaonation/Yiiframework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(276): CController->run('Easylogin')
+#8 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('site/Easylogin')
+#9 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#10 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#11 {main}
+REQUEST_URI=/site/Easylogin
+HTTP_REFERER=http://finaonation.com/easyregister?tile=HBCU%20connect
+---
+2013/11/27 23:24:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/or-image.jpg".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/or-image...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/or-image.jpg
+HTTP_REFERER=http://finaonation.com/videocontest
+---
+2013/11/27 23:24:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/login.css".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('css/login.css')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/login.css
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 23:24:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "javascript/lang/en.js".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('javascript/lang...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript/lang/en.js
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 23:24:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/or-image.jpg".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/or-image...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/or-image.jpg
+HTTP_REFERER=http://finaonation.com/videocontest
+---
+2013/11/27 23:46:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/tiles/588-aaaaaaaaaaaa.png".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/tiles/58...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/tiles/588-aaaaaaaaaaaa.png
+HTTP_REFERER=http://finaonation.com/myhome
+---
+2013/11/27 23:52:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/login.css".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('css/login.css')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/login.css
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 23:52:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/login.css".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('css/login.css')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/login.css
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 23:52:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "javascript/lang/en.js".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('javascript/lang...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript/lang/en.js
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 23:53:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/login.css".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('css/login.css')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/login.css
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 23:53:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/login.css".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('css/login.css')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/login.css
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 23:54:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "javascript/lang/en.js".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('javascript/lang...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript/lang/en.js
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/27 23:54:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/tiles/588-aaaaaaaaaaaa.png".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/tiles/58...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/tiles/588-aaaaaaaaaaaa.png
+HTTP_REFERER=http://finaonation.com/myhome
+---
+2013/11/27 23:54:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "thumbs".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('thumbs')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/thumbs/
+HTTP_REFERER=http://finaonation.com/myhome
+---
+2013/11/27 23:55:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "thumbs".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('thumbs')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/thumbs/
+HTTP_REFERER=http://finaonation.com/myhome
+---
+2013/11/28 00:12:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pma".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('pma')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/pma/?-s
+---
+2013/11/28 00:12:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "www.viddler.com/embed/bb13af7".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('www.viddler.com...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/www.viddler.com/embed/bb13af7/?f=1&autoplay=0&player=simple&secret=70441634&loop=0&nologo=0&hd=0
+HTTP_REFERER=http://finaonation.com/www.viddler.com/embed/bb13af7/?f=1&autoplay=0&player=simple&secret=70441634&loop=0&nologo=0&hd=0
+---
+2013/11/28 00:12:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "www.viddler.com/embed/bb13af7".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('www.viddler.com...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/www.viddler.com/embed/bb13af7/?f=1&autoplay=0&player=mini&secret=70441634&loop=0&nologo=0&hd=0&wmode=transparent
+HTTP_REFERER=http://finaonation.com/www.viddler.com/embed/bb13af7/?f=1&autoplay=0&player=mini&secret=70441634&loop=0&nologo=0&hd=0&wmode=transparent
+---
+2013/11/28 00:12:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/tiles/519-".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/tiles/51...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/tiles/519-
+---
+2013/11/28 00:26:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/tiles/588-aaaaaaaaaaaa.png".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/tiles/58...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/tiles/588-aaaaaaaaaaaa.png
+HTTP_REFERER=http://finaonation.com/myhome
+---
+2013/11/28 00:26:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/tiles/588-aaaaaaaaaaaa.png".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/tiles/58...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/tiles/588-aaaaaaaaaaaa.png
+HTTP_REFERER=http://finaonation.com/myhome
+---
+2013/11/28 00:26:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/tiles/588-aaaaaaaaaaaa.png".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/tiles/58...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/tiles/588-aaaaaaaaaaaa.png
+HTTP_REFERER=http://finaonation.com/myhome
+---
+2013/11/28 00:26:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/tiles/588-aaaaaaaaaaaa.png".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/tiles/58...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/tiles/588-aaaaaaaaaaaa.png
+HTTP_REFERER=http://finaonation.com/myhome
+---
+2013/11/28 00:30:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/tiles/519-".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/tiles/51...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/tiles/519-
+---
+2013/11/28 00:43:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/uploads/profileimages/193-1403206709Photo2.jpg".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/uploads/...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/uploads/profileimages/193-1403206709Photo2.jpg
+HTTP_REFERER=http://finaonation.com/myhome
+---
+2013/11/28 01:25:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/login.css".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('css/login.css')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/login.css
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/28 01:25:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "javascript/lang/en.js".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('javascript/lang...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript/lang/en.js
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/28 01:50:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/login.css".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('css/login.css')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/login.css
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/28 01:50:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "javascript/lang/en.js".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('javascript/lang...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript/lang/en.js
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/28 02:32:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/uploads/profileimages/<null>".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/uploads/...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/uploads/profileimages/%3Cnull%3E
+---
+2013/11/28 02:34:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/uploads/profileimages/153-6get-attachment.jpg".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/uploads/...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/uploads/profileimages/153-6get-attachment.jpg
+---
+2013/11/28 02:34:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/uploads/profileimages/677-profile2.jpg".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/uploads/...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/uploads/profileimages/677-profile2.jpg
+---
+2013/11/28 02:34:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/uploads/profileimages/<null>".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/uploads/...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/uploads/profileimages/%3Cnull%3E
+---
+2013/11/28 02:34:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/uploads/profileimages/<null>".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/uploads/...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/uploads/profileimages/%3Cnull%3E
+---
+2013/11/28 02:34:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/uploads/profileimages/profilePic_image3731.png".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/uploads/...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/uploads/profileimages/profilePic_image3731.png
+---
+2013/11/28 02:34:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/uploads/profileimages/<null>".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/uploads/...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/uploads/profileimages/%3Cnull%3E
+---
+2013/11/28 02:34:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/uploads/profileimages/<null>".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/uploads/...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/uploads/profileimages/%3Cnull%3E
+---
+2013/11/28 02:57:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/login.css".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('css/login.css')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/login.css
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/28 02:57:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "javascript/lang/en.js".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('javascript/lang...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript/lang/en.js
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/28 03:57:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/tiles/519-".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/tiles/51...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/tiles/519-
+---
+2013/11/28 05:33:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/tiles/588-aaaaaaaaaaaa.png".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/tiles/58...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/tiles/588-aaaaaaaaaaaa.png
+HTTP_REFERER=http://finaonation.com/myhome
+---
+2013/11/28 05:33:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "thumbs".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('thumbs')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/thumbs/
+HTTP_REFERER=http://finaonation.com/myhome
+---
+2013/11/28 06:25:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/login.css".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('css/login.css')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/login.css
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/28 06:25:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/login.css".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('css/login.css')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/login.css
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/28 06:25:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "javascript/lang/en.js".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('javascript/lang...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript/lang/en.js
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/28 06:27:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "thumbs".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('thumbs')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/thumbs/
+HTTP_REFERER=http://finaonation.com/myhome?frndid=127
+---
+2013/11/28 06:28:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/uploads/profileimages/profilePic_image3731.png".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/uploads/...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/uploads/profileimages/profilePic_image3731.png
+HTTP_REFERER=http://finaonation.com/myhome?frndid=127
+---
+2013/11/28 06:28:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/uploads/profileimages/profilePic_image8144.png".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/uploads/...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/uploads/profileimages/profilePic_image8144.png
+HTTP_REFERER=http://finaonation.com/myhome?frndid=127
+---
+2013/11/28 06:28:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/uploads/profileimages/profilePic_image3731.png".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/uploads/...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/uploads/profileimages/profilePic_image3731.png
+HTTP_REFERER=http://finaonation.com/finao/motivationmesg/frndid/617
+---
+2013/11/28 06:28:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/uploads/profileimages/profilePic_image8144.png".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/uploads/...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/uploads/profileimages/profilePic_image8144.png
+HTTP_REFERER=http://finaonation.com/finao/motivationmesg/frndid/617
+---
+2013/11/28 06:51:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/tiles/519-".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/tiles/51...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/tiles/519-
+---
+2013/11/28 06:51:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/tiles/519-".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/tiles/51...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/tiles/519-
+---
+2013/11/28 06:51:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/tiles/519-".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/tiles/51...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/tiles/519-
+---
+2013/11/28 06:51:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/tiles/519-".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/tiles/51...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/tiles/519-
+---
+2013/11/28 06:53:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/tiles/519-".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/tiles/51...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/tiles/519-
+---
+2013/11/28 07:29:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/login.css".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('css/login.css')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/login.css
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/28 07:29:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "javascript/lang/en.js".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('javascript/lang...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript/lang/en.js
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/28 10:15:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/login.css".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('css/login.css')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/login.css
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/28 10:15:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "javascript/lang/en.js".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('javascript/lang...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript/lang/en.js
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/28 12:00:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/login.css".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('css/login.css')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/login.css
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/28 12:00:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/login.css".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('css/login.css')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/login.css
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/28 12:00:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "javascript/lang/en.js".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('javascript/lang...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript/lang/en.js
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/28 13:25:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/login.css".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('css/login.css')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/login.css
+HTTP_REFERER=http://finaonation.com/home
+---
+2013/11/28 13:25:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "javascript/lang/en.js".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('javascript/lang...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript/lang/en.js
+HTTP_REFERER=http://finaonation.com/home
+---
+2013/11/28 14:40:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/fancybox_loading.gif".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/fancybox...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/fancybox_loading.gif
+HTTP_REFERER=http://finao.local/
+---
+2013/11/28 14:41:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/fancybox_loading.gif".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/fancybox...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/fancybox_loading.gif
+HTTP_REFERER=http://finao.local/
+---
+2013/11/28 14:41:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/fancybox_loading.gif".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/fancybox...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/fancybox_loading.gif
+HTTP_REFERER=http://finao.local/
+---
+2013/11/28 14:41:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/fancybox_loading.gif".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('images/fancybox...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/fancybox_loading.gif
+HTTP_REFERER=http://finao.local/
+---
+2013/11/28 14:57:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/login.css".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('css/login.css')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/login.css
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/28 14:57:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "javascript/lang/en.js".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('javascript/lang...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript/lang/en.js
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/28 14:57:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "javascript/fancybox-1.3.4/blank.gif".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('javascript/fanc...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript/fancybox-1.3.4/blank.gif
+HTTP_REFERER=http://finaonation.com/
+---
+2013/11/28 15:18:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "autodiscover/autodiscover.xml".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('autodiscover/au...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/autodiscover/autodiscover.xml
+---
+2013/11/28 15:57:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "javascript/lang/en.js".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('javascript/lang...')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript/lang/en.js
+HTTP_REFERER=http://finao.local/profile/profilelanding
+---
+2013/11/28 15:57:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/datepicker.css".' in /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/vhosts/finaonation/Yiiframework/web/CWebApplication.php(135): CWebApplication->runController('css/datepicker....')
+#1 /var/www/vhosts/finaonation/Yiiframework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/vhosts/finaonation/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/datepicker.css
+HTTP_REFERER=http://finao.local/profile/profilelanding
+---

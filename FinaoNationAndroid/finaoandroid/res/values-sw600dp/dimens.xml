@@ -1,0 +1,20 @@
+<resources>
+
+    <dimen name="Finaoimage_size">400dp</dimen>
+    <dimen name="Banner_size">300dp</dimen>
+    <dimen name="profilemargin">25dp</dimen>
+    <dimen name="profilewidth">170dp</dimen>
+    <dimen name="profileheight">190dp</dimen>
+    <dimen name="splacemarginheight">210dp</dimen>
+    <dimen name="splacemarginwidth">160dp</dimen>
+    <dimen name="splacemargintop">110dp</dimen>
+    <dimen name="overmargin">65dp</dimen>
+    <dimen name="edittextsize">28dp</dimen>
+     <dimen name="Bannertextsize">36dp</dimen>
+    <dimen name="headersize">90dp</dimen>
+    <dimen name="fbheight">80dp</dimen>
+    <dimen name="appmargin">25dp</dimen>
+    <dimen name="profile_bannersize">290dp</dimen>
+    <dimen name="marginprofile_bannersize">265dp</dimen>
+     <dimen name="scrollersize">70dp</dimen>
+</resources>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:background="#f9f9f9" >
+
+        <Button
+            android:id="@+id/detail_options_buttonid"
+            android:layout_width="60dp"
+            android:layout_height="30dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/btnoptions" />
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:layout_marginBottom="12dip"
+            android:layout_marginTop="12dip"
+            android:src="@drawable/logoheader" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="100dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="5dp"
+        android:orientation="horizontal" >
+
+        <FrameLayout
+            android:layout_width="fill_parent"
+            android:layout_height="100dp"
+            android:layout_weight="2"
+            android:background="#000000" >
+
+            <ImageView
+                android:id="@+id/trending_detail_profile_pic_imgid"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center" />
+        </FrameLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+             android:layout_marginLeft="5dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <ScrollView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:background="#BABABA" >
+
+                <TextView
+                    
+                    android:id="@+id/trending_finmessage_tvid"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginTop="5dp"
+                    android:text="TextView"
+                    android:textColor="#000000" />
+            </ScrollView>
+
+            <TextView
+                android:textStyle="bold"
+                android:textSize="16dp"
+                 android:background="#BABABA"
+                android:gravity="right"
+                android:id="@+id/finao_statu_tvid"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="3"
+                android:textColor="#f47b20" />
+            
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ImageView
+            android:id="@+id/finao_detail_status_ivid"
+            android:layout_width="60dp"
+            android:layout_height="30dp"
+            android:layout_marginLeft="25dp" />
+
+        <LinearLayout
+            android:id="@+id/finaodetailstatusdatelayoutid"
+            android:layout_width="fill_parent"
+            android:layout_height="30dp"
+            android:layout_marginRight="20dp"
+            android:gravity="right" >
+
+            <TextView
+                android:id="@+id/finao_detail_date_tvid"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:gravity="center"
+                android:text=""
+                android:textColor="#000000" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/trending_detail_lvid"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="5dp" >
+    </ListView>
+
+</LinearLayout>

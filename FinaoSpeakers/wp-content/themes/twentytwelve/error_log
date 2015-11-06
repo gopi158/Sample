@@ -1,0 +1,2 @@
+[28-Oct-2013 11:59:06] PHP Fatal error:  Call to undefined function  get_header() in /home/fnspeak/public_html/wp-content/themes/twentytwelve/tag.php on line 14
+[27-Dec-2013 11:10:45] PHP Fatal error:  Call to undefined function  get_header() in /home/fnspeak/public_html/wp-content/themes/twentytwelve/404.php on line 10

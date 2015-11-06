@@ -1,0 +1,1 @@
+[05-Nov-2013 13:21:06] PHP Fatal error:  Call to undefined function  add_action() in /home/fnspeak/public_html/wp-content/plugins/hello.php on line 60

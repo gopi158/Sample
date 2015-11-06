@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LoinPassword</key>
+	<string>somepasswordforvideoorimagecdn</string>
+	<key>LoginUserId</key>
+	<string>someuseridforvideoorimagecdn</string>
+	<key>BaseUrl</key>
+	<string>http://finaonationb.com/mobilewebservices/api.php</string>
+	<key>LoginEndPoint</key>
+	<string>finaoservice.php?</string>
+	<key>LoginParameters</key>
+	<string>json=userlogon&amp;email=%@&amp;pwd=%@&amp;type=%@</string>
+	<key>RegisterationParameters</key>
+	<string></string>
+</dict>
+</plist>

@@ -1,0 +1,69 @@
+a.upload-img {
+    background: url(../images/icons/icon-camera.png) left top no-repeat;
+    height: 30px;
+    padding-left: 30px;
+    font-size: 18px;
+    color: #bebebe;
+    font-weight: normal;
+}
+
+a.upload-video {
+    background: url(../images/icons/icon-video.png) left top 0px no-repeat;
+    height: 35px;
+    padding-left: 30px;
+    margin-left: 10px;
+    font-size: 18px;
+    color: #bebebe;
+    font-weight: normal;
+}
+
+a.home-header {
+    background: url(../images/icons/icon-home-white.png) left 1px no-repeat;
+    padding-left: 25px;
+    font-size: 15px;
+    color: #FFF;
+    font-family: 'oswaldbook';
+    margin-right: 10px;
+}
+
+    a.home-header:hover {
+        background: url(../images/icons/icon-home-grey.png) left 1px no-repeat;
+        color: #d3d3d3;
+        text-decoration: none;
+    }
+
+
+a.home-header-current {
+    background: url(../images/icons/icon-home-grey.png) left 1px no-repeat;
+    color: #d3d3d3;
+    padding-left: 25px;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: 'oswaldbook';
+    margin-right: 10px;
+}
+
+a.profile-header {
+    background: url(../images/icons/icon-profile-white.png) left 1px no-repeat;
+    padding-left: 25px;
+    font-size: 15px;
+    color: #FFF;
+    font-family: 'oswaldbook';
+    margin-right: 10px;
+}
+
+    a.profile-header:hover {
+        background: url(../images/icons/icon-profile-grey.png) left 1px no-repeat;
+        color: #d3d3d3;
+        text-decoration: none;
+    }
+
+a.profile-header-current {
+    background: url(../images/icons/icon-profile-grey.png) left 1px no-repeat;
+    color: #d3d3d3;
+    padding-left: 25px;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: 'oswaldbook';
+    margin-right: 10px;
+}

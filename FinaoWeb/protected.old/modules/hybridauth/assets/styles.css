@@ -1,0 +1,15 @@
+ul.hybridauth-providerlist  {	
+	list-style-type: none;
+	text-align: center;float:left; position: absolute; top:6px; left:160px; margin-left:0px; /* Added on 24-01-2013 to get icons at center*/
+}
+
+ul.hybridauth-providerlist li {
+	/* float:left; This is commented on 24-01-2013*/
+	text-decoration: none;
+	display: inline-block; /* Added on 24-01-2013 to get icons at center*/
+}
+
+.hybridauth-providerlist li.active {
+	background-color:green;
+	margin:5px;
+}

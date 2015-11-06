@@ -1,0 +1,266 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>FINAONATION</title>
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="favicon.ico">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="content/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="content/css/landing.css" rel="stylesheet">
+    <link href="content/css/images.css" rel="stylesheet">
+    <link rel="stylesheet" href="content/fonts/proximanova/stylesheet.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="content/fonts/oswald/stylesheet.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="content/fonts/myriad_pro/font.css" type="text/css" media="screen" />
+    <script src="content/js/jquery-2.1.0.min.js"></script>
+    <script src="content/bootstrap/js/bootstrap.min.js"></script>
+
+    <!-- add jcrop css -->
+    <link href="content/css/main.css" rel="stylesheet" type="text/css" />
+    <link href="content/css/jquery.Jcrop.min.css" rel="stylesheet" type="text/css" />
+    <!-- add jcrop scripts -->
+    <script src="content/js/jquery.min.js"></script>
+    <script src="content/js/jquery.Jcrop.min.js"></script>
+    <script src="content/js/script.js"></script>
+
+    <script>
+        $(function () {
+            $("#includedContent").load("header.html");
+        });
+    </script>
+</head>
+
+<body>
+    <!--import header.html-->
+    <div id="includedContent">
+    </div>
+    <!--import header.html-->
+
+    <div class="container white-background">
+        <div class="content-wrapper" style="margin-top: 23px;">
+            <div class="row">
+                <div class="col-md-4 col-sm-4 ">
+                    <div class="col-md-11 col-sm-12 col-md-push-1 col-sm-push-1">
+
+                        <div class="entered-finaos">
+                            <ul class="fade-text ">
+                                <li class="current">My Profile</li>
+                                <li><a href="settings_tagnotes.html">Tag notes</a></li>
+                                <li><a href="#">Privacy</a></li>
+                                <li><a href="#">Notifications</a></li>
+                                <li><a href="#">FINAO Shop</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-7 col-sm-8 content-wrapper-right " style="padding-left: 40px; border-left: 1px solid #ebe8e8;">
+                    <form role="form">
+                        <div class="row">
+                            <br />
+                            <div class="col-md-2 col-sm-3">
+                                <span class="font-20px p-text">Name :</span>
+                            </div>
+                            <div class="col-md-4 col-sm-2 margin-left30">
+                                <input type="text" placeholder="Mitchell Weholt" required name="name" size="30" value="" />
+                            </div>
+                        </div>
+                        <div class="space-setting"></div>
+                        <div class="row">
+                            <div class="col-md-2 col-sm-3">
+                                <span class="font-20px p-text">Email :</span>
+                            </div>
+                            <div class="col-md-4 col-sm-4 margin-left30">
+                                <input type="email" placeholder="mitchell@finaonation.com" required size="30" name="email" value="" />
+                            </div>
+                        </div>
+                        <div class="space-setting"></div>
+                        <div class="space-setting"></div>
+                        <div class="space-setting"></div>
+                        <div class="row">
+                            <div class="col-lg-4 col-md-5 col-sm-5 ">
+                                <span class="font-20px p-text">Edit password :</span>
+                            </div>
+                            <div class="col-lg-4 col-md-4 col-sm-4 margin-left30">
+                                <input type="text" id="password" required name="password" />
+                            </div>
+                        </div>
+                        <div class="space-setting"></div>
+                        <div class="row">
+                            <div class="col-lg-4 col-md-5 col-sm-5">
+                                <span class="font-20px p-text">Re-enter password :</span>
+                            </div>
+                            <div class="col-lg-4 col-md-4 col-sm-4 margin-left30">
+                                <input type="text" id="re_password" required name="re-enter-password" />
+                            </div>
+                        </div>
+                        <div class="space-setting"></div>
+
+                        <div class="row finao-setting-padding margin-none ">
+                            <div class="col-md-3 col-sm-3 settings-picture-padding">
+                                <div id="profile_image">
+                                    <img alt="Image" src="content/images/mitchell-profile.jpg" class="width100" />
+                                </div>
+                            </div>
+                            <div class="col-md-8 col-sm-7 update-pictures">
+                                <ul class="col-md-8 col-sm-9   margin-left30 profile-share-text">
+                                    <li id="" data-toggle="modal" data-target=".bs-modal-lg">Upload Profile Picture</li>
+                                    <li>Take a Profile Picture</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="margin-30px"></div>
+                        <div class="row finao-setting-padding margin-none">
+                            <div class="row col-md-6 col-sm-6 settings-picture-padding">
+                                <div id="banner_image">
+                                    <img alt="Image" src="content/images/banner.jpg" class="width100" />
+                                </div>
+                            </div>
+                            <div class="col-md-5 col-sm-6 update-pictures ">
+                                <ul class="col-md-12 col-sm-12 ">
+                                    <li id="" data-toggle="modal" data-target=".bs-modal-lg-banner">Upload Banner Picture</li>
+
+                                    <li>Take a Banner Picture</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-md-10 col-sm-10">
+                            <div class="row finao-setting-padding">
+                                <p class="font-15px p-text">Your bio:</p>
+
+                                <textarea class="form-control font-20px p-text color" rows="6" maxlength="2000" placeholder="I was lucky enough to have wonderful parents who allowed me to inherit a solid state of values. I receivedd a very good education, I captured a wonderful wife, and I have a great family."></textarea>
+                                <div class="row col-md-12 col-sm-12">
+                                    <button class="button-save ">SAVE</button>
+                                </div>
+                            </div>
+                        </div>
+                        <script>
+                            $('button').click(function () {
+                                if ($('#password').val() == $('#re_password').val()) {
+                                    // alert("both are same")
+                                }
+                                else {
+
+                                    alert("New password and confirm password does not match.")
+                                }
+                            });
+                        </script>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Profile image upload-->
+    <div class="modal fade bs-modal-lg" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close close-opacity no-border" style="margin-right: -30px; margin-top: -30px;" data-dismiss="modal" aria-hidden="true">
+                        <img alt="Image" src="content/images/icon-close.png" class="img-responsive"></button>
+                    <div class="text-left orange-text post-finao-hdline">PROFILE IMAGE UPLOAD</div>
+                </div>
+                <div class="modal-body">
+                    <div class="demo">
+
+                        <div class="bbody">
+
+                            <!-- upload form -->
+                            <form id="upload_form" enctype="multipart/form-data" method="post" action="upload_profile_image.php" onsubmit="return checkForm()">
+                                <!-- hidden crop params -->
+                                <input type="hidden" id="x1" name="x1" />
+                                <input type="hidden" id="y1" name="y1" />
+                                <input type="hidden" id="x2" name="x2" />
+                                <input type="hidden" id="y2" name="y2" />
+
+                                <div>
+                                    <input type="file" class="margin-5px" name="image_file" id="image_file" onchange="fileSelectHandler()" />
+                                </div>
+
+                                <div class="error-msg">
+                                    <div class="error"></div>
+                                </div>
+
+                                <div class="step2">
+
+                                    <img id="preview" />
+
+                                    <div class="info">
+                                        <input type="hidden" id="filesize" name="filesize" />
+                                        <input type="hidden" id="filetype" name="filetype" />
+                                        <input type="hidden" id="filedim" name="filedim" />
+                                        <input type="hidden" id="w" name="w" />
+                                        <input type="hidden" id="h" name="h" />
+                                    </div>
+
+                                    <input type="submit" value="Upload" class="margin-5px" />
+                                </div>
+                            </form>
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <!--Profile image upload-->
+
+
+    <!-- Profile banner upload-->
+    <div class="modal fade bs-modal-lg-banner" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close close-opacity no-border" style="margin-right: -30px; margin-top: -30px;" data-dismiss="modal" aria-hidden="true">
+                        <img alt="Image" src="content/images/icon-close.png" class="img-responsive"></button>
+                    <div class="text-left orange-text post-finao-hdline">PROFILE BANNER UPLOAD</div>
+                </div>
+                <div class="modal-body">
+                    <div class="demo">
+
+                        <div class="bbody">
+
+                            <!-- upload form -->
+                            <form id="Form1" enctype="multipart/form-data" method="post" action="upload_banner_image.php" onsubmit="return checkForm()">
+                                <!-- hidden crop params -->
+                                <input type="hidden" id="Hidden1" name="x1" />
+                                <input type="hidden" id="Hidden2" name="y1" />
+                                <input type="hidden" id="Hidden3" name="x2" />
+                                <input type="hidden" id="Hidden4" name="y2" />
+
+                                <div>
+                                    <input type="file" name="image_file1" class="margin-5px" id="image_file1" onchange="fileSelectHandler1()" />
+                                </div>
+
+                                <div class="error-msg">
+                                    <div class="error"></div>
+                                </div>
+
+                                <div class="step3">
+
+                                    <img id="preview1" />
+
+                                    <div class="info">
+                                        <input type="hidden" id="Hidden5" name="filesize" />
+                                        <input type="hidden" id="Hidden6" name="filetype" />
+                                        <input type="hidden" id="Hidden7" name="filedim" />
+                                        <input type="hidden" id="Hidden8" name="w" />
+                                        <input type="hidden" id="Hidden9" name="h" />
+                                    </div>
+
+                                    <input type="submit" value="Upload" class="margin-5px" />
+                                </div>
+                            </form>
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--Profile banner upload-->
+
+</body>
+</html>

@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>FINAONATION</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="author" content="">
+    <link href="content/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="content/css/landing.css" rel="stylesheet">
+    <link href="content/css/images.css" rel="stylesheet">
+    <link rel="stylesheet" href="content/fonts/proximanova/stylesheet.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="content/fonts/oswald/stylesheet.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="content/fonts/myriad_pro/font.css" type="text/css" media="screen" />
+    <script src="content/js/jquery-2.1.0.min.js"></script>
+     <script src="content/js/landing.js"></script>
+    <script src="content/bootstrap/js/bootstrap.min.js"></script>
+    <link rel="icon" href="favicon.ico" />
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('.bs-modal-sm1').modal('show');
+        });
+    </script>
+    <script type="text/javascript">
+        function closeit() {
+            setTimeout(" window.open('profile.html', '_self');", 0);
+        }
+    </script>
+</head>
+
+<body style="background-image: url(content/images/blur-background.jpg)">
+    <div class="modal fade bs-modal-sm1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-sm">
+            <div class="modal-content">
+                <div align="right" style="margin: -15px;">
+                    <button type="button" class="close close-opacity no-border" onclick="closeit()" data-dismiss="modal" aria-hidden="true">
+                        <img src="content/images/icon-close.png" class="img-responsive"></button>
+                </div>
+                <div class="modal-header">
+                    <div class="orange-text post-finao-hdline profile-share-text">SHARE</div>
+                </div>
+                <div class="modal-body">
+                    <div class="row profile-share-images">
+                        <a href="#">
+                            <img align="center" src="content/images/share-on-facebook.png" class="img-responsive"></a>
+                    </div>
+                    <div class="row profile-share-images">
+                        <a href="#">
+                            <img align="center" src="content/images/share-on-twitter.png" class="img-responsive"></a>
+                    </div>
+                    <div class="row profile-share-images">
+                        <a href="#">
+                            <img align="center" src="content/images/share-on-tumblr.png" class="img-responsive"></a>
+                    </div>
+                    <div class="row profile-share-images">
+                        <a href="#">
+                            <img align="center" src="content/images/share-on-pinterest.png" class="img-responsive"></a>
+                    </div>
+                </div>
+                <div class="modal-footer"></div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

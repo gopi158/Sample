@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.finaonation.finao"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="18" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="com.android.browser.permission.READ_HISTORY_BOOKMARKS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.RECORD_VIDEO" />
+
+    <uses-feature android:name="android.hardware.camera" />
+
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <application
+        android:allowBackup="true"
+        android:configChanges="orientation"
+        android:hardwareAccelerated="true"
+        android:icon="@drawable/app_icon"
+        android:label="@string/app_name"
+        android:screenOrientation="nosensor"
+        android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        <activity
+            android:name="com.finaonation.finao.FinaoSplash"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="finao" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.finaonation.finao.MyImageLoader"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.finaonation.finao.FinaoGetStarted"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.finaonation.finao.FinaoLoginOrRegister"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.finaonation.finao.FinaoLogin"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.finaonation.finao.FinaoRegister"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.finaonation.baseactivity.FinaoFooterTab"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.finaonation.profile.FinaoProfilePage"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.finaonation.profile.CreateNewFinao"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" >
+        </activity>
+        <activity
+            android:name="com.finaonation.profile.TileFinaoList"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.finaonation.profile.FinaoDetails"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.finaonation.profile.ProfileEditStory"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" >
+        </activity>
+        <activity
+            android:name="com.finaonation.profile.FinaoHomeDetail"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.finaonation.profile.DisplayHomeImages"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.finaonation.profile.FullScreenFinalDetails"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.finaonation.search.FinaoSearchPage"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize" >
+        </activity>
+        <activity
+            android:name="com.finaonation.search.Finaopersonalprofile"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.finaonation.addfinao.AddFinaoPage"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan|adjustResize" >
+        </activity>
+        <activity
+            android:name="com.finaonation.addfinao.SelectFinaoToPost"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.finaonation.home.FinaoHome"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.finaonation.home.TrendingDetail"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.finaonation.home.SelectTileToMove"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.finaonation.addfinao.MultiPhotoSelectActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.finaonation.addfinao.MultiVideoSelectActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.finaonation.addfinao.PreviewActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize" />
+        <activity
+            android:name="com.finaonation.finao.Videoplayer"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.finaonation.finao.TrendingDetailFragement"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_trending_detail_fragement" >
+        </activity>
+        <activity
+            android:name="com.finaonation.finao.WebViewActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_web_view" >
+        </activity>
+        <activity
+            android:name="com.finaonation.finao.WebViewActivityLand"
+            android:label="What Is Finao?"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.finaonation.finao.SettingActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_setting"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.finaonation.finao.SettingsFinaoEditor"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_settings_finao_editor"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.finaonation.finao.FinaoDetailsView"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_finao_details_view"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.finaonation.finao.Cropping.CropImage"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait" />
+
+        <provider
+            android:name="com.finaonation.finao.Cropping.InternalStorageContentProvider"
+            android:authorities="com.finaonation.finao.Cropping"
+            android:exported="true" />
+
+        <activity
+            android:name="com.finaonation.finao.ProfileBtnActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_peofile_btn"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.finaonation.finao.client.android.CaptureActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="Scan Barcode"
+            android:screenOrientation="sensorLandscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+            android:windowSoftInputMode="stateAlwaysHidden" >
+            <intent-filter>
+                <action android:name="com.finaonation.finao.client.android.SCAN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.finaonation.finao.FriendProfileBtnActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_friend_profile_btn"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.finaonation.finao.SettinsEditActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_settins_edit"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.finaonation.finao.Settingsclick"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_settingsclick"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.finaonation.finao.BrowsertextActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_browsertext"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.finaonation.finao.NotificationActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_notification"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.finaonation.finao.FollowFriendTilesActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_follow_friend_tiles"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.finaonation.finao.ShowNotificationActivity"
+            android:label="@string/title_activity_show_notification" 
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name="com.finaonation.finao.NotificationSettingActivity"
+            android:label="@string/title_activity_notification_setting"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait" >
+        </activity>
+        <receiver
+            android:name="net.rcvl.network.NetworkChangeReceiver"
+            android:label="NetworkChangeReceiver" >
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+                <action android:name="android.net.wifi.WIFI_STATE_CHANGED" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

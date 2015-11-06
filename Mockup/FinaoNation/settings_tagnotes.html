@@ -1,0 +1,100 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>FINAONATION</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link href="content/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="content/css/landing.css" rel="stylesheet">
+    <link href="content/css/images.css" rel="stylesheet">
+    <link rel="stylesheet" href="content/fonts/proximanova/stylesheet.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="content/fonts/oswald/stylesheet.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="content/fonts/myriad_pro/font.css" type="text/css" media="screen" />
+    <script src="content/js/jquery-2.1.0.min.js"></script>
+    <script src="content/bootstrap/js/bootstrap.min.js"></script>
+    <link rel="icon" href="favicon.ico" />
+    <script>
+        $(function () {
+            $("#includedContent").load("header.html");
+        });
+    </script>
+</head>
+
+<body>
+    <!--import header.html-->
+    <div id="includedContent">
+    </div>
+    <!--import header.html-->
+
+    <div class="container white-background">
+        <div class="content-wrapper" style="margin-top: 23px;">
+            <div class="row">
+                <div class="col-md-4 col-sm-5">
+                    <div class="col-md-11 col-sm-12 col-md-push-1 col-sm-push-1">
+                        <div class="entered-finaos " style="padding: 8px 5px 8px 8px;">
+
+                            <ul class="fade-text">
+                                <li><a href="settings_my_profile.html">My Profile</a></li>
+                                <li class="current">Tag notes</li>
+                                <li><a href="#">Privacy</a></li>
+                                <li><a href="#">Notifications</a></li>
+                                <li><a href="#">FINAO Shop</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-7 col-sm-7 content-wrapper-right " style="padding-left: 40px; border-left: 1px solid #ebe8e8;">
+                    <form role="form">
+                        <div class="row">
+                            <br />
+                            <div class="col-md-3 col-sm-4 text-align-center">
+                                <img class="img-responsive" alt="Image" src="content/images/sweatshirt.png" />
+                            </div>
+                            <div class="col-md-9 col-sm-8">
+                                <p class="oswald-font font-20px">PRE-GAMES SWEATSHIRT</p>
+                                <div class="color">
+                                    <textarea id="sweatshirt" class="form-control font-20px p-text" rows="6" placeholder="Mitchell Weholt 425.239.8161 mitchell@finaonation.com"></textarea>
+                                </div>
+                            </div>
+                        </div>
+                        <br>
+                        <div class="row">
+                            <div class="col-md-3 col-sm-4">
+                                <img class="img-responsive" alt="Image" src="content/images/t-shirt.png" />
+                            </div>
+                            <div class="col-md-9 col-sm-8 ">
+                                <p class="oswald-font font-20px">PERFORMANCE V TEE</p>
+                                <textarea id="vtee" class="form-control font-20px p-text color" rows="6" placeholder="MY FINAO is to work out every day!"></textarea>
+                            </div>
+                            <div class="row col-lg-7 col-md-9 col-sm-10">
+                                <button class="button-save ">SAVE</button>
+                            </div>
+
+                        </div>
+
+                         <script>
+                             $('button').click(function () {
+                                 if ($('#sweatshirt').val() != '') {
+                                     // alert("both are same")
+                                 }
+                                 else {
+                                     alert("PRE-GAMES SWEATSHIRT field is blank.")
+                                 }
+
+                                 if ($('#vtee').val() != '') {
+                                     // alert("both are same")
+                                 }
+                                 else {
+                                     alert("PERFORMANCE V TEE field is also blank.")
+                                 }
+
+                             });
+                        </script>
+                    </form>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,1 @@
+[31-Jan-2014 04:13:22] PHP Fatal error:  Call to undefined function  get_header() in /home/fnspeak/public_html/wp-content/themes/speakers/js/speakers-page.php on line 16

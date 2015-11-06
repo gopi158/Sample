@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/popup_menu_root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="7"
+        android:alpha="0.5"
+        android:background="@color/tabDark" >
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        android:background="@android:color/transparent"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/capture_photo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:background="@color/appwhitecolor"
+            android:onClick="SharePost"
+            android:paddingBottom="@dimen/appmargin"
+            android:paddingTop="@dimen/appmargin"
+            android:text="Share"
+            android:textColor="@color/buttoncol"
+            android:textSize="@dimen/edittextsize"
+            android:textStyle="bold" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/linecol" />
+
+        <Button
+            android:id="@+id/take_from_lib_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:background="@color/appwhitecolor"
+            android:onClick="deletepost"
+            android:paddingBottom="@dimen/appmargin"
+            android:paddingTop="@dimen/appmargin"
+            android:text="Delete Post"
+            android:textColor="@color/buttoncol"
+            android:textSize="@dimen/edittextsize"
+            android:textStyle="bold" />
+         <View
+            android:layout_width="match_parent"
+            android:layout_height="5dp"
+            android:background="@color/linecol" />
+
+        <Button
+            android:id="@+id/Button_cancel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:background="@color/appwhitecolor"
+            android:onClick="cancelPopup"
+            android:paddingBottom="@dimen/appmargin"
+            android:paddingTop="@dimen/appmargin"
+            android:text="Cancel"
+            android:textColor="@color/buttextcol"
+            android:textSize="@dimen/edittextsize"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</LinearLayout>

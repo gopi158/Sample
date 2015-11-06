@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:animateLayoutChanges="true"
+    android:background="#ffffff"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/headersize"
+        android:background="@color/appwhitecolor"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:background="@null"
+            android:onClick="backClicked"
+            android:text="Back"
+            android:textColor="@color/buttoncol"
+            android:textSize="@dimen/Bannertextsize" />
+        
+        <TextView
+            android:layout_centerInParent="true"
+            android:id="@+id/text_type"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="FINAO"
+            android:textColor="#545454"
+            android:textSize="@dimen/Bannertextsize"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:alpha="0.1"
+        android:background="@color/linecol" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/header"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:text="No Home Items"
+            android:textSize="@dimen/edittextsize"
+            android:visibility="gone" />
+
+        <ListView
+            android:id="@+id/profilepagelvid"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="@dimen/appmargin"
+            android:layout_marginRight="@dimen/appmargin"
+            android:layout_marginTop="@dimen/appmargin"
+             android:layout_marginBottom="@dimen/appmargin"
+            android:layout_weight="1"
+            android:divider="#eeeeee"
+            android:dividerHeight="1dp" >
+        </ListView>
+
+        <GridView
+            android:id="@+id/gridview"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginTop="@dimen/appmargin"
+            android:layout_weight="1"
+            android:numColumns="2"
+            android:visibility="gone" >
+        </GridView>
+    </LinearLayout>
+
+</LinearLayout>

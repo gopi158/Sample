@@ -1,0 +1,1 @@
+ALTER TABLE fn_uploaddetails ADD INDEX (upload_sourceid);

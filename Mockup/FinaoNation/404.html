@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>FINAONATION</title>
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="author" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="favicon.ico">
+    <link href="content/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="content/css/landing.css" rel="stylesheet">
+    <link href="content/css/images.css" rel="stylesheet">
+    <link rel="stylesheet" href="content/fonts/proximanova/stylesheet.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="content/fonts/oswald/stylesheet.css" type="text/css" media="screen" />
+    <script src="content/js/jquery-2.1.0.min.js"></script>
+    <script src="content/bootstrap/js/bootstrap.min.js"></script>
+    <script src="jquery.js"></script>
+    <script>
+        $(function () {
+            $("#includedContent").load("Header.html");
+        });
+    </script>
+
+    <!--Inspired button change text-->
+    <script>
+        function changeText(idElement) {
+            var element = document.getElementById('element' + idElement);
+            if (idElement === 1 || idElement === 2) {
+                if (element.innerHTML === 'Inspired') element.innerHTML = 'Inspiring';
+                else {
+                    element.innerHTML = 'Inspired';
+                }
+            }
+        }
+    </script>
+    <!--Inspired button change text-->
+
+</head>
+
+<body>
+    <!--import header.html-->
+    <div id="includedContent">
+    </div>
+    <!--import header.html-->
+
+    <div class="container white-background">
+        <div class="content-wrapper text-align-center container-fixed-height" style="margin-top: 40px">
+            <div class="row col-lg-12 col-md-12 col-sm-12">
+                <div class="clear-50px"></div>
+                <div class="orange-text  sorry-message font-45px">Sorry, that page isn't here</div>
+            </div>
+            <div class="row col-lg-12 col-md-12 col-sm-12">
+                <div class="font-25px sorry-message">Try going to your profile or the homepage.</div>
+            </div>
+        </div>
+    </div>
+    <!--term and conditions-->
+</body>
+</html>

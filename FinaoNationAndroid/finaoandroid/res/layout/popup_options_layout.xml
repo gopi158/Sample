@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/popup_menu_root"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/player_contrlos_background"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/moveFinao"
+        android:layout_width="270dip"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dip"
+        android:onClick="moveFinao"
+        android:text="Move FINAO"
+        android:textSize="14dip"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/deleteFinao"
+        android:layout_width="270dip"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:onClick="deleteFinao"
+        android:text="Delete FINAO"
+        android:textSize="14dip"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/changeFinao"
+        android:layout_width="270dip"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:onClick="changeFinao"
+        android:text="Change FINAO"
+        android:textSize="14dip"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/Button_cancel"
+        android:layout_width="270dip"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:onClick="cancelOptionPopup"
+        android:text="Cancel"
+        android:textSize="14dip"
+        android:textStyle="bold" />
+
+</LinearLayout>
