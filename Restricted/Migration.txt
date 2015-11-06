@@ -1,0 +1,8 @@
+Copy the build from GIT, place the same in the root / in a folder of the local webserver (like xampp or wamp).
+Copy yii framework and point this folder in the index.php file.
+
+Add the databases and the cdn urls in the finao.local.php (under /protected/config).
+If you added the files in the folder finao, the local url will be your cdn url here. Example: http://localhost/finao. 
+Make sure you have the assets and runtime folders with write permissions.
+In the server we need to have the curl and rewrite mod enabled.
+The database doesn’t need any special instructions as you can directly import into phpmyadmin.

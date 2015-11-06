@@ -1,0 +1,45 @@
+The web UI build is in web01 server and the  databases are in the db01 server.
+
+The Web01 details : 
+=====================
+Public IP to access via SSH or FTP : 192.237.169.183
+Username is root and password is olEchN3OG0w7
+
+The Db01 details : 
+=====================
+Public IP to access via SSH or FTP : 192.237.169.191
+Username is root and password is mkX?oG6ZIK77tvKlzf
+
+
+DB Details : 
+==============
+http://192.237.169.191/phpmyadmin
+Uname For Auth Screen:  serverinfo
+Pwd For Auth Screen : mUNV8v3jhPBGwDst
+
+Pwd for root user PHPMYADMIN : pg6b7Db9d8wA6cCR
+
+Finaonation.com 
+================
+Root of finaoanation.com : /var/www/vhosts/finaonation
+Database Details : 
+   DB Name : finaonation
+   DB UserName : finao_admin
+   DB Password : U29yJF5C7noJjKL6
+   DB Host : 10.208.142.190
+   Prefix : fn_
+
+Finaonation/Shop :
+===================
+Root of finaoanation.com : /var/www/vhosts/finaonation/shop
+Database Details : 
+   DB Name : shop
+   DB UserName : shop-www
+   DB Password : cheizeNgaequahngaiquuej0
+   DB Host : 10.208.142.190
+   Prefix: customer_ (this is used when from Yii instance)
+
+   UAT can be deployed on these folders and the following  databases  :
+
+UAT  :  /var/www/vhosts/finaoUAT
+Databases that can be used : finaonationuat and shopuat.

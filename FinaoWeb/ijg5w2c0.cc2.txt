@@ -1,0 +1,367 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   _finao/assets/4d986c1c/css/ie.css
+#	new file:   _finao/assets/4d986c1c/css/main.css
+#	new file:   _finao/assets/4d986c1c/css/print.css
+#	new file:   _finao/assets/4d986c1c/css/screen.css
+#	new file:   _finao/assets/4d986c1c/images/logo.png
+#	new file:   _finao/assets/4d986c1c/js/fancybox/blank.gif
+#	new file:   _finao/assets/4d986c1c/js/fancybox/fancy_close.png
+#	new file:   _finao/assets/4d986c1c/js/fancybox/fancy_loading.png
+#	new file:   _finao/assets/4d986c1c/js/fancybox/fancy_nav_left.png
+#	new file:   _finao/assets/4d986c1c/js/fancybox/fancy_nav_right.png
+#	new file:   _finao/assets/4d986c1c/js/fancybox/fancy_shadow_e.png
+#	new file:   _finao/assets/4d986c1c/js/fancybox/fancy_shadow_n.png
+#	new file:   _finao/assets/4d986c1c/js/fancybox/fancy_shadow_ne.png
+#	new file:   _finao/assets/4d986c1c/js/fancybox/fancy_shadow_nw.png
+#	new file:   _finao/assets/4d986c1c/js/fancybox/fancy_shadow_s.png
+#	new file:   _finao/assets/4d986c1c/js/fancybox/fancy_shadow_se.png
+#	new file:   _finao/assets/4d986c1c/js/fancybox/fancy_shadow_sw.png
+#	new file:   _finao/assets/4d986c1c/js/fancybox/fancy_shadow_w.png
+#	new file:   _finao/assets/4d986c1c/js/fancybox/fancy_title_left.png
+#	new file:   _finao/assets/4d986c1c/js/fancybox/fancy_title_main.png
+#	new file:   _finao/assets/4d986c1c/js/fancybox/fancy_title_over.png
+#	new file:   _finao/assets/4d986c1c/js/fancybox/fancy_title_right.png
+#	new file:   _finao/assets/4d986c1c/js/fancybox/fancybox-x.png
+#	new file:   _finao/assets/4d986c1c/js/fancybox/fancybox-y.png
+#	new file:   _finao/assets/4d986c1c/js/fancybox/fancybox.png
+#	new file:   _finao/assets/4d986c1c/js/fancybox/jquery.fancybox-1.3.1.css
+#	new file:   _finao/assets/4d986c1c/js/fancybox/jquery.fancybox-1.3.1.pack.js
+#	new file:   _finao/assets/4d986c1c/js/main.js
+#	new file:   _finao/assets/4d986c1c/js/tooltip.js
+#	new file:   _finao/assets/5ef160fa/autocomplete/indicator.gif
+#	new file:   _finao/assets/5ef160fa/autocomplete/jquery.autocomplete.css
+#	new file:   _finao/assets/5ef160fa/jquery.ajaxqueue.js
+#	new file:   _finao/assets/5ef160fa/jquery.autocomplete.js
+#	new file:   _finao/assets/5ef160fa/jquery.ba-bbq.js
+#	new file:   _finao/assets/5ef160fa/jquery.ba-bbq.min.js
+#	new file:   _finao/assets/5ef160fa/jquery.bgiframe.js
+#	new file:   _finao/assets/5ef160fa/jquery.cookie.js
+#	new file:   _finao/assets/5ef160fa/jquery.history.js
+#	new file:   _finao/assets/5ef160fa/jquery.js
+#	new file:   _finao/assets/5ef160fa/jquery.maskedinput.js
+#	new file:   _finao/assets/5ef160fa/jquery.maskedinput.min.js
+#	new file:   _finao/assets/5ef160fa/jquery.metadata.js
+#	new file:   _finao/assets/5ef160fa/jquery.min.js
+#	new file:   _finao/assets/5ef160fa/jquery.multifile.js
+#	new file:   _finao/assets/5ef160fa/jquery.rating.js
+#	new file:   _finao/assets/5ef160fa/jquery.treeview.async.js
+#	new file:   _finao/assets/5ef160fa/jquery.treeview.edit.js
+#	new file:   _finao/assets/5ef160fa/jquery.treeview.js
+#	new file:   _finao/assets/5ef160fa/jquery.yii.js
+#	new file:   _finao/assets/5ef160fa/jquery.yiiactiveform.js
+#	new file:   _finao/assets/5ef160fa/jquery.yiitab.js
+#	new file:   _finao/assets/5ef160fa/jui/css/base/images/ui-bg_flat_0_aaaaaa_40x100.png
+#	new file:   _finao/assets/5ef160fa/jui/css/base/images/ui-bg_flat_75_ffffff_40x100.png
+#	new file:   _finao/assets/5ef160fa/jui/css/base/images/ui-bg_glass_55_fbf9ee_1x400.png
+#	new file:   _finao/assets/5ef160fa/jui/css/base/images/ui-bg_glass_65_ffffff_1x400.png
+#	new file:   _finao/assets/5ef160fa/jui/css/base/images/ui-bg_glass_75_dadada_1x400.png
+#	new file:   _finao/assets/5ef160fa/jui/css/base/images/ui-bg_glass_75_e6e6e6_1x400.png
+#	new file:   _finao/assets/5ef160fa/jui/css/base/images/ui-bg_glass_95_fef1ec_1x400.png
+#	new file:   _finao/assets/5ef160fa/jui/css/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+#	new file:   _finao/assets/5ef160fa/jui/css/base/images/ui-icons_222222_256x240.png
+#	new file:   _finao/assets/5ef160fa/jui/css/base/images/ui-icons_2e83ff_256x240.png
+#	new file:   _finao/assets/5ef160fa/jui/css/base/images/ui-icons_454545_256x240.png
+#	new file:   _finao/assets/5ef160fa/jui/css/base/images/ui-icons_888888_256x240.png
+#	new file:   _finao/assets/5ef160fa/jui/css/base/images/ui-icons_cd0a0a_256x240.png
+#	new file:   _finao/assets/5ef160fa/jui/css/base/jquery-ui.css
+#	new file:   _finao/assets/5ef160fa/jui/css/base/jquery.ui.accordion.css
+#	new file:   _finao/assets/5ef160fa/jui/css/base/jquery.ui.autocomplete.css
+#	new file:   _finao/assets/5ef160fa/jui/css/base/jquery.ui.button.css
+#	new file:   _finao/assets/5ef160fa/jui/css/base/jquery.ui.core.css
+#	new file:   _finao/assets/5ef160fa/jui/css/base/jquery.ui.datepicker.css
+#	new file:   _finao/assets/5ef160fa/jui/css/base/jquery.ui.dialog.css
+#	new file:   _finao/assets/5ef160fa/jui/css/base/jquery.ui.menu.css
+#	new file:   _finao/assets/5ef160fa/jui/css/base/jquery.ui.progressbar.css
+#	new file:   _finao/assets/5ef160fa/jui/css/base/jquery.ui.resizable.css
+#	new file:   _finao/assets/5ef160fa/jui/css/base/jquery.ui.selectable.css
+#	new file:   _finao/assets/5ef160fa/jui/css/base/jquery.ui.slider.css
+#	new file:   _finao/assets/5ef160fa/jui/css/base/jquery.ui.spinner.css
+#	new file:   _finao/assets/5ef160fa/jui/css/base/jquery.ui.tabs.css
+#	new file:   _finao/assets/5ef160fa/jui/css/base/jquery.ui.theme.css
+#	new file:   _finao/assets/5ef160fa/jui/css/base/jquery.ui.tooltip.css
+#	new file:   _finao/assets/5ef160fa/jui/js/jquery-ui-i18n.min.js
+#	new file:   _finao/assets/5ef160fa/jui/js/jquery-ui.min.js
+#	new file:   _finao/assets/5ef160fa/punycode.js
+#	new file:   _finao/assets/5ef160fa/punycode.min.js
+#	new file:   _finao/assets/5ef160fa/rating/delete.gif
+#	new file:   _finao/assets/5ef160fa/rating/jquery.rating.css
+#	new file:   _finao/assets/5ef160fa/rating/star.gif
+#	new file:   _finao/assets/5ef160fa/treeview/images/ajax-loader.gif
+#	new file:   _finao/assets/5ef160fa/treeview/images/file.gif
+#	new file:   _finao/assets/5ef160fa/treeview/images/folder-closed.gif
+#	new file:   _finao/assets/5ef160fa/treeview/images/folder.gif
+#	new file:   _finao/assets/5ef160fa/treeview/images/minus.gif
+#	new file:   _finao/assets/5ef160fa/treeview/images/plus.gif
+#	new file:   _finao/assets/5ef160fa/treeview/images/treeview-black-line.gif
+#	new file:   _finao/assets/5ef160fa/treeview/images/treeview-black.gif
+#	new file:   _finao/assets/5ef160fa/treeview/images/treeview-default-line.gif
+#	new file:   _finao/assets/5ef160fa/treeview/images/treeview-default.gif
+#	new file:   _finao/assets/5ef160fa/treeview/images/treeview-famfamfam-line.gif
+#	new file:   _finao/assets/5ef160fa/treeview/images/treeview-famfamfam.gif
+#	new file:   _finao/assets/5ef160fa/treeview/images/treeview-gray-line.gif
+#	new file:   _finao/assets/5ef160fa/treeview/images/treeview-gray.gif
+#	new file:   _finao/assets/5ef160fa/treeview/images/treeview-red-line.gif
+#	new file:   _finao/assets/5ef160fa/treeview/images/treeview-red.gif
+#	new file:   _finao/assets/5ef160fa/treeview/jquery.treeview.css
+#	new file:   _finao/assets/5ef160fa/yiitab/jquery.yiitab.css
+#	new file:   _finao/assets/9e7fbd4a/detailview/styles.css
+#	new file:   _finao/assets/9e7fbd4a/gridview/bg.gif
+#	new file:   _finao/assets/9e7fbd4a/gridview/delete.png
+#	new file:   _finao/assets/9e7fbd4a/gridview/down.gif
+#	new file:   _finao/assets/9e7fbd4a/gridview/jquery.yiigridview.js
+#	new file:   _finao/assets/9e7fbd4a/gridview/loading.gif
+#	new file:   _finao/assets/9e7fbd4a/gridview/styles.css
+#	new file:   _finao/assets/9e7fbd4a/gridview/up.gif
+#	new file:   _finao/assets/9e7fbd4a/gridview/update.png
+#	new file:   _finao/assets/9e7fbd4a/gridview/view.png
+#	new file:   _finao/assets/9e7fbd4a/listview/down.gif
+#	new file:   _finao/assets/9e7fbd4a/listview/jquery.yiilistview.js
+#	new file:   _finao/assets/9e7fbd4a/listview/loading.gif
+#	new file:   _finao/assets/9e7fbd4a/listview/styles.css
+#	new file:   _finao/assets/9e7fbd4a/listview/up.gif
+#	new file:   _finao/assets/dc6dbc95/pager.css
+#	new file:   _finao/css/bg.gif
+#	new file:   _finao/css/form.css
+#	new file:   _finao/css/ie.css
+#	new file:   _finao/css/main.css
+#	new file:   _finao/css/print.css
+#	new file:   _finao/css/screen.css
+#	new file:   _finao/index-test.php
+#	new file:   _finao/index.php
+#	new file:   _finao/protected/.htaccess
+#	new file:   _finao/protected/components/Controller.php
+#	new file:   _finao/protected/components/UserIdentity.php
+#	new file:   _finao/protected/config/console.php
+#	new file:   _finao/protected/config/main.php
+#	new file:   _finao/protected/config/test.php
+#	new file:   _finao/protected/controllers/SiteController.php
+#	new file:   _finao/protected/controllers/UsersController.php
+#	new file:   _finao/protected/data/schema.mysql.sql
+#	new file:   _finao/protected/data/schema.sqlite.sql
+#	new file:   _finao/protected/data/testdrive.db
+#	new file:   _finao/protected/models/ContactForm.php
+#	new file:   _finao/protected/models/LoginForm.php
+#	new file:   _finao/protected/models/Users.php
+#	new file:   _finao/protected/runtime/application.log
+#	new file:   _finao/protected/runtime/gii-1.1.14/CrudCode.php
+#	new file:   _finao/protected/runtime/gii-1.1.14/ModelCode.php
+#	new file:   _finao/protected/tests/WebTestCase.php
+#	new file:   _finao/protected/tests/bootstrap.php
+#	new file:   _finao/protected/tests/functional/SiteTest.php
+#	new file:   _finao/protected/tests/phpunit.xml
+#	new file:   _finao/protected/views/layouts/column1.php
+#	new file:   _finao/protected/views/layouts/column2.php
+#	new file:   _finao/protected/views/layouts/main.php
+#	new file:   _finao/protected/views/site/contact.php
+#	new file:   _finao/protected/views/site/error.php
+#	new file:   _finao/protected/views/site/index.php
+#	new file:   _finao/protected/views/site/login.php
+#	new file:   _finao/protected/views/site/pages/about.php
+#	new file:   _finao/protected/views/users/_form.php
+#	new file:   _finao/protected/views/users/_search.php
+#	new file:   _finao/protected/views/users/_view.php
+#	new file:   _finao/protected/views/users/admin.php
+#	new file:   _finao/protected/views/users/create.php
+#	new file:   _finao/protected/views/users/index.php
+#	new file:   _finao/protected/views/users/update.php
+#	new file:   _finao/protected/views/users/view.php
+#	new file:   _finao/protected/yiic
+#	new file:   _finao/protected/yiic.bat
+#	new file:   _finao/protected/yiic.php
+#	new file:   _finao/themes/classic/views/.htaccess
+#
+# Changes not staged for commit:
+#   (use "git add/rm <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	deleted:    finao/assets/4d986c1c/css/ie.css
+#	deleted:    finao/assets/4d986c1c/css/main.css
+#	deleted:    finao/assets/4d986c1c/css/print.css
+#	deleted:    finao/assets/4d986c1c/css/screen.css
+#	deleted:    finao/assets/4d986c1c/images/logo.png
+#	deleted:    finao/assets/4d986c1c/js/fancybox/blank.gif
+#	deleted:    finao/assets/4d986c1c/js/fancybox/fancy_close.png
+#	deleted:    finao/assets/4d986c1c/js/fancybox/fancy_loading.png
+#	deleted:    finao/assets/4d986c1c/js/fancybox/fancy_nav_left.png
+#	deleted:    finao/assets/4d986c1c/js/fancybox/fancy_nav_right.png
+#	deleted:    finao/assets/4d986c1c/js/fancybox/fancy_shadow_e.png
+#	deleted:    finao/assets/4d986c1c/js/fancybox/fancy_shadow_n.png
+#	deleted:    finao/assets/4d986c1c/js/fancybox/fancy_shadow_ne.png
+#	deleted:    finao/assets/4d986c1c/js/fancybox/fancy_shadow_nw.png
+#	deleted:    finao/assets/4d986c1c/js/fancybox/fancy_shadow_s.png
+#	deleted:    finao/assets/4d986c1c/js/fancybox/fancy_shadow_se.png
+#	deleted:    finao/assets/4d986c1c/js/fancybox/fancy_shadow_sw.png
+#	deleted:    finao/assets/4d986c1c/js/fancybox/fancy_shadow_w.png
+#	deleted:    finao/assets/4d986c1c/js/fancybox/fancy_title_left.png
+#	deleted:    finao/assets/4d986c1c/js/fancybox/fancy_title_main.png
+#	deleted:    finao/assets/4d986c1c/js/fancybox/fancy_title_over.png
+#	deleted:    finao/assets/4d986c1c/js/fancybox/fancy_title_right.png
+#	deleted:    finao/assets/4d986c1c/js/fancybox/fancybox-x.png
+#	deleted:    finao/assets/4d986c1c/js/fancybox/fancybox-y.png
+#	deleted:    finao/assets/4d986c1c/js/fancybox/fancybox.png
+#	deleted:    finao/assets/4d986c1c/js/fancybox/jquery.fancybox-1.3.1.css
+#	deleted:    finao/assets/4d986c1c/js/fancybox/jquery.fancybox-1.3.1.pack.js
+#	deleted:    finao/assets/4d986c1c/js/main.js
+#	deleted:    finao/assets/4d986c1c/js/tooltip.js
+#	deleted:    finao/assets/5ef160fa/autocomplete/indicator.gif
+#	deleted:    finao/assets/5ef160fa/autocomplete/jquery.autocomplete.css
+#	deleted:    finao/assets/5ef160fa/jquery.ajaxqueue.js
+#	deleted:    finao/assets/5ef160fa/jquery.autocomplete.js
+#	deleted:    finao/assets/5ef160fa/jquery.ba-bbq.js
+#	deleted:    finao/assets/5ef160fa/jquery.ba-bbq.min.js
+#	deleted:    finao/assets/5ef160fa/jquery.bgiframe.js
+#	deleted:    finao/assets/5ef160fa/jquery.cookie.js
+#	deleted:    finao/assets/5ef160fa/jquery.history.js
+#	deleted:    finao/assets/5ef160fa/jquery.js
+#	deleted:    finao/assets/5ef160fa/jquery.maskedinput.js
+#	deleted:    finao/assets/5ef160fa/jquery.maskedinput.min.js
+#	deleted:    finao/assets/5ef160fa/jquery.metadata.js
+#	deleted:    finao/assets/5ef160fa/jquery.min.js
+#	deleted:    finao/assets/5ef160fa/jquery.multifile.js
+#	deleted:    finao/assets/5ef160fa/jquery.rating.js
+#	deleted:    finao/assets/5ef160fa/jquery.treeview.async.js
+#	deleted:    finao/assets/5ef160fa/jquery.treeview.edit.js
+#	deleted:    finao/assets/5ef160fa/jquery.treeview.js
+#	deleted:    finao/assets/5ef160fa/jquery.yii.js
+#	deleted:    finao/assets/5ef160fa/jquery.yiiactiveform.js
+#	deleted:    finao/assets/5ef160fa/jquery.yiitab.js
+#	deleted:    finao/assets/5ef160fa/jui/css/base/images/ui-bg_flat_0_aaaaaa_40x100.png
+#	deleted:    finao/assets/5ef160fa/jui/css/base/images/ui-bg_flat_75_ffffff_40x100.png
+#	deleted:    finao/assets/5ef160fa/jui/css/base/images/ui-bg_glass_55_fbf9ee_1x400.png
+#	deleted:    finao/assets/5ef160fa/jui/css/base/images/ui-bg_glass_65_ffffff_1x400.png
+#	deleted:    finao/assets/5ef160fa/jui/css/base/images/ui-bg_glass_75_dadada_1x400.png
+#	deleted:    finao/assets/5ef160fa/jui/css/base/images/ui-bg_glass_75_e6e6e6_1x400.png
+#	deleted:    finao/assets/5ef160fa/jui/css/base/images/ui-bg_glass_95_fef1ec_1x400.png
+#	deleted:    finao/assets/5ef160fa/jui/css/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+#	deleted:    finao/assets/5ef160fa/jui/css/base/images/ui-icons_222222_256x240.png
+#	deleted:    finao/assets/5ef160fa/jui/css/base/images/ui-icons_2e83ff_256x240.png
+#	deleted:    finao/assets/5ef160fa/jui/css/base/images/ui-icons_454545_256x240.png
+#	deleted:    finao/assets/5ef160fa/jui/css/base/images/ui-icons_888888_256x240.png
+#	deleted:    finao/assets/5ef160fa/jui/css/base/images/ui-icons_cd0a0a_256x240.png
+#	deleted:    finao/assets/5ef160fa/jui/css/base/jquery-ui.css
+#	deleted:    finao/assets/5ef160fa/jui/css/base/jquery.ui.accordion.css
+#	deleted:    finao/assets/5ef160fa/jui/css/base/jquery.ui.autocomplete.css
+#	deleted:    finao/assets/5ef160fa/jui/css/base/jquery.ui.button.css
+#	deleted:    finao/assets/5ef160fa/jui/css/base/jquery.ui.core.css
+#	deleted:    finao/assets/5ef160fa/jui/css/base/jquery.ui.datepicker.css
+#	deleted:    finao/assets/5ef160fa/jui/css/base/jquery.ui.dialog.css
+#	deleted:    finao/assets/5ef160fa/jui/css/base/jquery.ui.menu.css
+#	deleted:    finao/assets/5ef160fa/jui/css/base/jquery.ui.progressbar.css
+#	deleted:    finao/assets/5ef160fa/jui/css/base/jquery.ui.resizable.css
+#	deleted:    finao/assets/5ef160fa/jui/css/base/jquery.ui.selectable.css
+#	deleted:    finao/assets/5ef160fa/jui/css/base/jquery.ui.slider.css
+#	deleted:    finao/assets/5ef160fa/jui/css/base/jquery.ui.spinner.css
+#	deleted:    finao/assets/5ef160fa/jui/css/base/jquery.ui.tabs.css
+#	deleted:    finao/assets/5ef160fa/jui/css/base/jquery.ui.theme.css
+#	deleted:    finao/assets/5ef160fa/jui/css/base/jquery.ui.tooltip.css
+#	deleted:    finao/assets/5ef160fa/jui/js/jquery-ui-i18n.min.js
+#	deleted:    finao/assets/5ef160fa/jui/js/jquery-ui.min.js
+#	deleted:    finao/assets/5ef160fa/punycode.js
+#	deleted:    finao/assets/5ef160fa/punycode.min.js
+#	deleted:    finao/assets/5ef160fa/rating/delete.gif
+#	deleted:    finao/assets/5ef160fa/rating/jquery.rating.css
+#	deleted:    finao/assets/5ef160fa/rating/star.gif
+#	deleted:    finao/assets/5ef160fa/treeview/images/ajax-loader.gif
+#	deleted:    finao/assets/5ef160fa/treeview/images/file.gif
+#	deleted:    finao/assets/5ef160fa/treeview/images/folder-closed.gif
+#	deleted:    finao/assets/5ef160fa/treeview/images/folder.gif
+#	deleted:    finao/assets/5ef160fa/treeview/images/minus.gif
+#	deleted:    finao/assets/5ef160fa/treeview/images/plus.gif
+#	deleted:    finao/assets/5ef160fa/treeview/images/treeview-black-line.gif
+#	deleted:    finao/assets/5ef160fa/treeview/images/treeview-black.gif
+#	deleted:    finao/assets/5ef160fa/treeview/images/treeview-default-line.gif
+#	deleted:    finao/assets/5ef160fa/treeview/images/treeview-default.gif
+#	deleted:    finao/assets/5ef160fa/treeview/images/treeview-famfamfam-line.gif
+#	deleted:    finao/assets/5ef160fa/treeview/images/treeview-famfamfam.gif
+#	deleted:    finao/assets/5ef160fa/treeview/images/treeview-gray-line.gif
+#	deleted:    finao/assets/5ef160fa/treeview/images/treeview-gray.gif
+#	deleted:    finao/assets/5ef160fa/treeview/images/treeview-red-line.gif
+#	deleted:    finao/assets/5ef160fa/treeview/images/treeview-red.gif
+#	deleted:    finao/assets/5ef160fa/treeview/jquery.treeview.css
+#	deleted:    finao/assets/5ef160fa/yiitab/jquery.yiitab.css
+#	deleted:    finao/assets/9e7fbd4a/detailview/styles.css
+#	deleted:    finao/assets/9e7fbd4a/gridview/bg.gif
+#	deleted:    finao/assets/9e7fbd4a/gridview/delete.png
+#	deleted:    finao/assets/9e7fbd4a/gridview/down.gif
+#	deleted:    finao/assets/9e7fbd4a/gridview/jquery.yiigridview.js
+#	deleted:    finao/assets/9e7fbd4a/gridview/loading.gif
+#	deleted:    finao/assets/9e7fbd4a/gridview/styles.css
+#	deleted:    finao/assets/9e7fbd4a/gridview/up.gif
+#	deleted:    finao/assets/9e7fbd4a/gridview/update.png
+#	deleted:    finao/assets/9e7fbd4a/gridview/view.png
+#	deleted:    finao/assets/9e7fbd4a/listview/down.gif
+#	deleted:    finao/assets/9e7fbd4a/listview/jquery.yiilistview.js
+#	deleted:    finao/assets/9e7fbd4a/listview/loading.gif
+#	deleted:    finao/assets/9e7fbd4a/listview/styles.css
+#	deleted:    finao/assets/9e7fbd4a/listview/up.gif
+#	deleted:    finao/assets/dc6dbc95/pager.css
+#	deleted:    finao/css/bg.gif
+#	deleted:    finao/css/form.css
+#	deleted:    finao/css/ie.css
+#	deleted:    finao/css/main.css
+#	deleted:    finao/css/print.css
+#	deleted:    finao/css/screen.css
+#	deleted:    finao/index-test.php
+#	deleted:    finao/index.php
+#	deleted:    finao/protected/.htaccess
+#	deleted:    finao/protected/components/Controller.php
+#	deleted:    finao/protected/components/UserIdentity.php
+#	deleted:    finao/protected/config/console.php
+#	deleted:    finao/protected/config/main.php
+#	deleted:    finao/protected/config/test.php
+#	deleted:    finao/protected/controllers/SiteController.php
+#	deleted:    finao/protected/controllers/UsersController.php
+#	deleted:    finao/protected/data/schema.mysql.sql
+#	deleted:    finao/protected/data/schema.sqlite.sql
+#	deleted:    finao/protected/data/testdrive.db
+#	deleted:    finao/protected/models/ContactForm.php
+#	deleted:    finao/protected/models/LoginForm.php
+#	deleted:    finao/protected/models/Users.php
+#	deleted:    finao/protected/runtime/application.log
+#	deleted:    finao/protected/runtime/gii-1.1.14/CrudCode.php
+#	deleted:    finao/protected/runtime/gii-1.1.14/ModelCode.php
+#	deleted:    finao/protected/tests/WebTestCase.php
+#	deleted:    finao/protected/tests/bootstrap.php
+#	deleted:    finao/protected/tests/functional/SiteTest.php
+#	deleted:    finao/protected/tests/phpunit.xml
+#	deleted:    finao/protected/views/layouts/column1.php
+#	deleted:    finao/protected/views/layouts/column2.php
+#	deleted:    finao/protected/views/layouts/main.php
+#	deleted:    finao/protected/views/site/contact.php
+#	deleted:    finao/protected/views/site/error.php
+#	deleted:    finao/protected/views/site/index.php
+#	deleted:    finao/protected/views/site/login.php
+#	deleted:    finao/protected/views/site/pages/about.php
+#	deleted:    finao/protected/views/users/_form.php
+#	deleted:    finao/protected/views/users/_search.php
+#	deleted:    finao/protected/views/users/_view.php
+#	deleted:    finao/protected/views/users/admin.php
+#	deleted:    finao/protected/views/users/create.php
+#	deleted:    finao/protected/views/users/index.php
+#	deleted:    finao/protected/views/users/update.php
+#	deleted:    finao/protected/views/users/view.php
+#	deleted:    finao/protected/yiic
+#	deleted:    finao/protected/yiic.bat
+#	deleted:    finao/protected/yiic.php
+#	deleted:    finao/themes/classic/views/.htaccess
+#	modified:   finao_web/protected/controllers/SiteController.php
+#	modified:   finao_web/protected/controllers/UsersController.php
+#	modified:   finao_web/protected/models/Users.php
+#	modified:   finao_web/protected/runtime/application.log
+#	modified:   finao_web/protected/views/site/login.php
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	finao_web/assets/5c3cf501/
+#	finao_web/assets/708c294e/
+#	finao_web/assets/7c6e0e40/
+#	finao_web/protected/views/site/forgot.php
+#	finao_web/protected/views/site/signup.php
+
